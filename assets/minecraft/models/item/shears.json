@@ -21,6 +21,7 @@
       { "predicate": { "damaged": 1, "damage": 0.06722689075}, "model": "item/rides/tlspeed1" },
       { "predicate": { "damaged": 1, "damage": 0.07142857142}, "model": "item/rides/tlspeed2" },
       { "predicate": { "damaged": 1, "damage": 0.07563025210}, "model": "item/rides/tlspeed3" },
-      { "predicate": { "damaged": 1, "damage": 0.07983193277}, "model": "item/rides/tlspeed4" }
+      { "predicate": { "damaged": 1, "damage": 0.07983193277}, "model": "item/rides/tlspeed4" },
+      { "predicate": { "damaged": 1, "damage": 0.08403361345}, "model": "item/rides/jotlm" }
     ]
 }
