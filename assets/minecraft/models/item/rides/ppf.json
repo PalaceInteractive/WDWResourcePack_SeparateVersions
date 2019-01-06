@@ -1,15 +1,15 @@
 {
 	"credit": "Made with Blockbench by halofreak894",
 	"textures": {
-		"0": "blocks/wool_colored_light_blue",
-		"1": "blocks/wool_colored_yellow",
-		"2": "blocks/hardened_clay_stained_green",
-		"3": "blocks/planks_oak",
-		"4": "blocks/wool_colored_black",
-		"5": "blocks/gold_block",
-		"6": "blocks/wool_colored_red",
-		"7": "blocks/astrogrill",
-		"particle": "blocks/wool_colored_light_blue"
+		"0": "block/light_blue_wool",
+		"1": "block/yellow_wool",
+		"2": "block/green_terracotta",
+		"3": "block/oak_planks",
+		"4": "block/black_wool",
+		"5": "block/gold_block",
+		"6": "block/red_wool",
+		"7": "block/astrogrill",
+		"particle": "block/light_blue_wool"
 	},
 	"elements": [
 		{

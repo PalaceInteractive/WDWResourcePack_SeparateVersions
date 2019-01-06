@@ -1,15 +1,15 @@
 {
 	"__comment": "Designed by Kodak_kev with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/e_particle",
-		"texture": "blocks/wool_colored_cyan",
-		"texture1": "blocks/coal_block",
-		"texture2": "blocks/wool_colored_light_blue",
-		"texture3": "blocks/wool_colored_black",
-		"texture4": "blocks/wool_colored_silver",
-		"texture5": "blocks/2",
-		"texture6": "blocks/clay",
-		"texture7": "blocks/cobblestone_mossy"
+		"particle": "block/e_particle",
+		"texture": "block/cyan_wool",
+		"texture1": "block/coal_block",
+		"texture2": "block/light_blue_wool",
+		"texture3": "block/black_wool",
+		"texture4": "block/light_gray_wool",
+		"texture5": "block/2",
+		"texture6": "block/clay",
+		"texture7": "block/mossy_cobblestone"
 	},
 	"elements": [
 		{
