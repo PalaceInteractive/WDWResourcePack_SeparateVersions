@@ -9497,8 +9497,8 @@
 		},
 		"head": {
 			"rotation": [0, 180, 0],
-			"translation": [0, 32, 32],
-			"scale": [2.7, 2.7, 2.7]
+			"translation": [0, 24, 32],
+			"scale": [2.2, 2.2, 2.2]
 		},
 		"ground": {
 			"translation": [0, 3.4782, 0],
