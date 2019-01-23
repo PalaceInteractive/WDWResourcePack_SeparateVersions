@@ -24,6 +24,11 @@
       { "predicate": { "damaged": 1, "damage": 0.07983193277}, "model": "item/rides/tlspeed4" },
       { "predicate": { "damaged": 1, "damage": 0.08403361345}, "model": "item/rides/jotlm" },
       { "predicate": { "damaged": 1, "damage": 0.08823529412}, "model": "item/rides/tta" },
-      { "predicate": { "damaged": 1, "damage": 0.09243697479}, "model": "item/rides/ppf" }
+      { "predicate": { "damaged": 1, "damage": 0.09243697479}, "model": "item/rides/ppf" },
+      { "predicate": { "damaged": 1, "damage": 0.09663865546}, "model": "item/rides/sdmt1" },
+      { "predicate": { "damaged": 1, "damage": 0.10084033610}, "model": "item/rides/sdmt2" },
+      { "predicate": { "damaged": 1, "damage": 0.10504201680}, "model": "item/rides/barnstormer1" },
+      { "predicate": { "damaged": 1, "damage": 0.10924369750}, "model": "item/rides/barnstormer2" },
+      { "predicate": { "damaged": 1, "damage": 0.11344537820}, "model": "item/rides/barnstormer3" }
     ]
 }
