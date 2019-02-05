@@ -1,22 +1,22 @@
 {
 	"__comment": "Designed by Kodak_kev with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "block/e_particle",
-		"texture": "block/astrobase",
-		"texture1": "block/lime_wool",
-		"texture2": "block/daylight_detector_inverted_top",
-		"texture3": "block/gray_wool",
-		"texture5": "block/red_wool",
-		"texture7": "block/cyan_terracotta",
-		"texture8": "block/red_terracotta",
-		"texture9": "block/polished_andesite",
-		"texture10": "block/astro",
-		"texture11": "block/astrogrill",
-		"texture4": "block/astroarrow",
-		"texture6": "block/yellow_terracotta",
-		"texture12": "block/astro2",
-		"texture13": "block/black_wool",
-		"texture14": "block/clay"
+		"particle": "blocks/e_particle",
+		"texture": "blocks/astrobase",
+		"texture1": "blocks/wool_colored_lime",
+		"texture2": "blocks/daylight_detector_inverted_top",
+		"texture3": "blocks/wool_colored_gray",
+		"texture5": "blocks/wool_colored_red",
+		"texture7": "blocks/hardened_clay_stained_cyan",
+		"texture8": "blocks/hardened_clay_stained_red",
+		"texture9": "blocks/stone_andesite_smooth",
+		"texture10": "blocks/astro",
+		"texture11": "blocks/astrogrill",
+		"texture4": "blocks/astroarrow",
+		"texture6": "blocks/hardened_clay_stained_yellow",
+		"texture12": "blocks/astro2",
+		"texture13": "blocks/wool_colored_black",
+		"texture14": "blocks/clay"
 	},
 	"elements": [
 		{

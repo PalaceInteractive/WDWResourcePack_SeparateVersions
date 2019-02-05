@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench by halofreak894",
 	"textures": {
-		"0": "block/blue_wool",
-		"2": "block/black_wool",
-		"4": "block/dispenser_front",
-		"5": "block/astrogrill",
-		"particle": "block/blue_wool"
+		"0": "blocks/wool_colored_blue",
+		"2": "blocks/wool_colored_black",
+		"4": "blocks/dispenser_front_horizontal",
+		"5": "blocks/astrogrill",
+		"particle": "blocks/wool_colored_blue"
 	},
 	"elements": [
 		{
