@@ -7,6 +7,12 @@
     "2": "block/gold_block",
     "3": "block/black_wool"
   },
+  "overrides":[
+      { "predicate": { "damaged": 1, "damage": 0.000640614990}, "model":"item/decorations/woody"},
+      { "predicate": { "damaged": 1, "damage": 0.001281229981}, "model":"item/decorations/bb8"},
+      { "predicate": { "damaged": 1, "damage": 0.001921844971}, "model":"item/decorations/bb8head"},
+      { "predicate": { "damaged": 1, "damage": 0.002562459962}, "model":"item/decorations/octopus"}
+  ],
   "elements": [
     {
       "from": [

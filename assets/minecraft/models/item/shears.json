@@ -85,14 +85,14 @@
         "damaged": 1,
         "damage": 0.05042016807
       },
-      "model": "item/bb8head"
+      "model": "item/rides/sdmt1"
     },
     {
       "predicate": {
         "damaged": 1,
         "damage": 0.05462184874
       },
-      "model": "item/bb8"
+      "model": "item/rides/sdmt2"
     },
     {
       "predicate": {
@@ -156,20 +156,6 @@
         "damage": 0.09243697479
       },
       "model": "item/rides/ppf"
-    },
-    {
-      "predicate": {
-        "damaged": 1,
-        "damage": 0.09663865546
-      },
-      "model": "item/rides/sdmt1"
-    },
-    {
-      "predicate": {
-        "damaged": 1,
-        "damage": 0.10084033610
-      },
-      "model": "item/rides/sdmt2"
     },
     {
       "predicate": {
