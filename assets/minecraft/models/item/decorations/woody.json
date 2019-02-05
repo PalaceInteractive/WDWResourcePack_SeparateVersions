@@ -1,18 +1,18 @@
 {
 	"credit": "Made with Blockbench by halofreak894",
 	"textures": {
-		"0": "blocks/hardened_clay_stained_brown",
-		"1": "blocks/hardened_clay_stained_yellow",
-		"2": "blocks/hardened_clay_stained_white",
-		"3": "blocks/decorations/woodycactus",
-		"4": "blocks/lapis_block",
-		"5": "blocks/decorations/woodyshirt",
-		"6": "blocks/wool_colored_white",
-		"7": "blocks/decorations/woodypattern",
-		"8": "blocks/cauldron_bottom",
-		"9": "blocks/wool_colored_red",
-		"10": "blocks/wool_colored_black",
-		"particle": "blocks/hardened_clay_stained_brown"
+		"0": "block/brown_terracotta",
+		"1": "block/yellow_terracotta",
+		"2": "block/white_terracotta",
+		"3": "block/decorations/woodycactus",
+		"4": "block/lapis_block",
+		"5": "block/decorations/woodyshirt",
+		"6": "block/white_wool",
+		"7": "block/decorations/woodypattern",
+		"8": "block/cauldron_bottom",
+		"9": "block/red_wool",
+		"10": "block/black_wool",
+		"particle": "block/brown_terracotta"
 	},
 	"elements": [
 		{
