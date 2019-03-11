@@ -27,6 +27,9 @@
       { "predicate": { "damaged": 1, "damage": 0.09243697479}, "model": "item/rides/ppf" },
       { "predicate": { "damaged": 1, "damage": 0.09663865546}, "model": "item/rides/barnstormer1" },
       { "predicate": { "damaged": 1, "damage": 0.10084033610}, "model": "item/rides/barnstormer2" },
-      { "predicate": { "damaged": 1, "damage": 0.10504201680}, "model": "item/rides/barnstormer3" }
+      { "predicate": { "damaged": 1, "damage": 0.10504201680}, "model": "item/rides/barnstormer3" },
+      { "predicate": { "damaged": 1, "damage": 0.10924369747}, "model": "item/rides/sdd_front" },
+      { "predicate": { "damaged": 1, "damage": 0.11344537815}, "model": "item/rides/sdd_middle" },
+      { "predicate": { "damaged": 1, "damage": 0.11764705882}, "model": "item/rides/sdd_back" }
     ]
 }
