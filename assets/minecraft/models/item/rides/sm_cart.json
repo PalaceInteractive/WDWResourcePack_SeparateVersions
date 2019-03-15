@@ -7962,7 +7962,7 @@
 		},
 		"head": {
 			"rotation":  [ 0, -90, 0 ],
-			"translation":  [ 0, -6.355, 0 ],
+			"translation":  [ 0, 25.645, 56.347 ],
 			"scale":  [ 3.6, 3.6, 3.6 ]
 		},
 		"ground": {
