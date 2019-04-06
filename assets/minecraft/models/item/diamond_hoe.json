@@ -19,6 +19,7 @@
 { "predicate": { "damaged": 1, "damage": 0.008327994875}, "model":"item/hats/woody_ears"},
 { "predicate": { "damaged": 1, "damage": 0.008968609865}, "model":"item/hats/rainbow_ears_v2"},
 { "predicate": { "damaged": 1, "damage": 0.009609224855}, "model":"item/hats/woody"},
-{ "predicate": { "damaged": 1, "damage": 0.010249839846}, "model":"item/hats/mickey_wand"}
+{ "predicate": { "damaged": 1, "damage": 0.010249839846}, "model":"item/hats/mickey_wand"},
+{ "predicate": { "damaged": 1, "damage": 0.010890454836}, "model":"item/hats/stitch_hat"}
 ]
 }
