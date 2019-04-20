@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench by halofreak894",
 	"textures": {
-		"1": "wool_colored_black",
-		"2": "iron_block",
+		"1": "blocks/wool_colored_black",
+		"2": "blocks/iron_block",
 		"particle": "items/nubx/alien_saucer"
 	},
 	"elements": [
