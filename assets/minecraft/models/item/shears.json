@@ -38,6 +38,9 @@
       { "predicate": { "damaged": 1, "damage": 0.13865546218}, "model": "item/rides/woody" },
       { "predicate": { "damaged": 1, "damage": 0.14285714285}, "model": "item/rides/alien_saucer" },
       { "predicate": { "damaged": 1, "damage": 0.14705882352}, "model": "item/rides/alien_saucer_cart" },
-      { "predicate": { "damaged": 1, "damage": 0.15126050420}, "model": "item/rides/tsm" }
+      { "predicate": { "damaged": 1, "damage": 0.15126050420}, "model": "item/rides/tsm" },
+      { "predicate": { "damaged": 1, "damage": 0.15546218487395 }, "model": "item/rides/bus" },
+      { "predicate": { "damaged": 0, "damage": 0.159663865546218 }, "model": "item/rides/peterpan" },
+  		{ "predicate": { "damaged": 0, "damage": 0.163865546218487 }, "model": "item/rides/splashmountain" }
     ]
 }
