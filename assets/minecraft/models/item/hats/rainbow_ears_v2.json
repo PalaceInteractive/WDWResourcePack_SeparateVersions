@@ -9,7 +9,7 @@
 		"5": "blocks/wool_colored_pink",
 		"6": "blocks/wool_colored_white",
 		"7": "custom/pride",
-		"mesh_palette": "items/mesh_palette",
+		"mesh_palette": "blocks/wool_colored_white",
 		"8": "blocks/wool_colored_orange"
 	},
 	"elements": [
