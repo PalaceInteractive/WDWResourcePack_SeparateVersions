@@ -21,6 +21,7 @@
 { "predicate": { "damaged": 1, "damage": 0.009609224855}, "model":"item/hats/woody"},
 { "predicate": { "damaged": 1, "damage": 0.010249839846}, "model":"item/hats/mickey_wand"},
 { "predicate": { "damaged": 1, "damage": 0.010890454836}, "model":"item/hats/stitch_hat"},
-{ "predicate": { "damaged": 1, "damage": 0.010890454836}, "model":"item/handitems/prideflag"}
+{ "predicate": { "damaged": 1, "damage": 0.011531069830}, "model":"item/handitems/prideflag"},
+{ "predicate": { "damaged": 1, "damage": 0.012171684820}, "model":"item/hats/mickey_ears_hat"}
 ]
 }
