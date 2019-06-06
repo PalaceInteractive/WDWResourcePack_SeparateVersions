@@ -3833,12 +3833,54 @@
 				"up": {"uv": [0, 0, 1, 1], "texture": "#7"},
 				"down": {"uv": [0, 0, 1, 1], "texture": "#7"}
 			}
+		},
+		{
+			"name": "brown inside",
+			"from": [5.15, 1.75, 11],
+			"to": [10.95, 2.75, 12.25],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [11.5, 1, 1.5]},
+			"faces": {
+				"north": {"uv": [3.25, 0, 4, 0.64967], "rotation": 180, "texture": "#3"},
+				"east": {"uv": [3.25, 0, 4, 0.64967], "rotation": 180, "texture": "#3"},
+				"south": {"uv": [3.25, 0, 4, 0.64967], "rotation": 180, "texture": "#3"},
+				"west": {"uv": [3.25, 0, 4, 0.64967], "rotation": 180, "texture": "#3"},
+				"up": {"uv": [3.25, 0, 4, 0.64967], "rotation": 180, "texture": "#3"},
+				"down": {"uv": [3.25, 0, 4, 0.64967], "rotation": 180, "texture": "#3"}
+			}
+		},
+		{
+			"name": "brown inside",
+			"from": [10.9, 2, 0.25],
+			"to": [11.45, 2.5, 12],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [11.5, 1, 1.5]},
+			"faces": {
+				"north": {"uv": [3.25, 0, 4, 0.64967], "rotation": 180, "texture": "#3"},
+				"east": {"uv": [3.25, 0, 4, 0.64967], "rotation": 180, "texture": "#3"},
+				"south": {"uv": [3.25, 0, 4, 0.64967], "rotation": 180, "texture": "#3"},
+				"west": {"uv": [3.25, 0, 4, 0.64967], "rotation": 180, "texture": "#3"},
+				"up": {"uv": [3.25, 0, 4, 0.64967], "rotation": 180, "texture": "#3"},
+				"down": {"uv": [3.25, 0, 4, 0.64967], "rotation": 180, "texture": "#3"}
+			}
+		},
+		{
+			"name": "brown inside",
+			"from": [4.6, 2, 0.25],
+			"to": [5.15, 2.5, 12],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [11.5, 1, 1.5]},
+			"faces": {
+				"north": {"uv": [3.25, 0, 4, 0.64967], "rotation": 180, "texture": "#3"},
+				"east": {"uv": [3.25, 0, 4, 0.64967], "rotation": 180, "texture": "#3"},
+				"south": {"uv": [3.25, 0, 4, 0.64967], "rotation": 180, "texture": "#3"},
+				"west": {"uv": [3.25, 0, 4, 0.64967], "rotation": 180, "texture": "#3"},
+				"up": {"uv": [3.25, 0, 4, 0.64967], "rotation": 180, "texture": "#3"},
+				"down": {"uv": [3.25, 0, 4, 0.64967], "rotation": 180, "texture": "#3"}
+			}
 		}
 	],
 	"display": {
 		"head": {
-			"scale": [4, 4, 3.475],
-			"translation": [0, 32, 28.5]
+			"translation": [0, -10, 0],
+			"scale": [3.76, 4, 3.1]
 		}
 	}
 }
