@@ -28,6 +28,8 @@
 { "predicate": { "damaged": 1, "damage": 0.01408451}, "model":"item/handitems/hpwand"},
 { "predicate": { "damaged": 1, "damage": 0.01472471}, "model":"item/hats/gidget"},
 { "predicate": { "damaged": 1, "damage": 0.01536492}, "model":"item/hats/max"},
-{ "predicate": { "damaged": 1, "damage": 0.01600512}, "model":"item/hats/sortinghat"}
+{ "predicate": { "damaged": 1, "damage": 0.01600512}, "model":"item/hats/sortinghat"},
+{ "predicate": { "damaged": 1, "damage": 0.01664532650}, "model":"item/hats/cheetah_ears"},
+{ "predicate": { "damaged": 1, "damage": 0.017285531370}, "model":"item/handitems/moanaplush"}
 ]
 }
