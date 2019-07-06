@@ -1,15 +1,15 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/hardened_clay",
-		"1": "blocks/hardened_clay_stained_black",
-		"2": "blocks/hardened_clay_stained_red",
-		"3": "blocks/wool_colored_red",
-		"4": "blocks/hardened_clay_stained_white",
-		"5": "blocks/end_stone",
-		"6": "blocks/diamond_block",
-		"7": "blocks/coal_block",
-		"particle": "blocks/hardened_clay"
+		"0": "Pictures:blocks/hardened_clay",
+		"1": "Pictures:blocks/hardened_clay_stained_black",
+		"2": "Pictures:blocks/hardened_clay_stained_red",
+		"3": "Pictures:blocks/wool_colored_red",
+		"4": "Pictures:blocks/hardened_clay_stained_white",
+		"5": "Pictures:blocks/end_stone",
+		"6": "Pictures:blocks/diamond_block",
+		"7": "Pictures:blocks/coal_block",
+		"particle": "Pictures:blocks/hardened_clay"
 	},
 	"elements": [
 		{
@@ -699,42 +699,28 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"scale": [0.275, 0.275, 0.275],
-			"rotation": [-62, -180, -3],
-			"translation": [0, 4, -0.5]
+			"rotation": [-38.5, 179.75, 0],
+			"translation": [-0.25, 8.5, -2],
+			"scale": [0.55273, 1, 0.41406]
 		},
-		"firstperson_righthand": {
-			"scale": [0.475, 0.475, 0.475],
-			"translation": [2, 6.5, 0],
-			"rotation": [85, 0, 30]
+		"thirdperson_lefthand": {
+			"rotation": [-38.5, 179.75, 0],
+			"translation": [-0.25, 8.5, -2],
+			"scale": [0.55273, 1, 0.41406]
 		},
-		"firstperson_lefthand": {
-			"scale": [0.475, 0.475, 0.475],
-			"rotation": [85, 0, 30],
-			"translation": [2, 6.5, 0]
-		},
-		"head": {
-			"rotation": [87, 0, 0],
-			"translation": [0, 14.5, 6.5]
-		},
-		"fixed": {
-			"scale": [0.775, 0.775, 0.775],
-			"rotation": [90, 0, 0],
-			"translation": [0, 3.5, 3]
+		"ground": {
+			"rotation": [1.5, 5.25, 0.75],
+			"translation": [-1.75, 4.25, -4.5]
 		},
 		"gui": {
-			"scale": [0.55, 0.55, 0.55],
+			"rotation": [94, 0, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.78, 1, 0.65]
+		},
+		"fixed": {
 			"rotation": [90, 0, 0],
-			"translation": [0, 3, 0]
+			"translation": [0, 3.5, 7.25],
+			"scale": [0.8, 1, 0.73]
 		}
-	},
-	"groups": [
-		{
-			"name": "moanaplush",
-			"isOpen": false,
-			"export": true,
-			"visibility": true,
-			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56]
-		}
-	]
+	}
 }
