@@ -33,7 +33,7 @@
 { "predicate": { "damaged": 1, "damage": 0.017285531370}, "model":"item/hats/tiger_ears"},
 { "predicate": { "damaged": 1, "damage": 0.017925736235}, "model":"item/hats/zebra_ears"},
 { "predicate": { "damaged": 1, "damage": 0.018565941101}, "model":"item/hats/simba_ears"},
-{ "predicate": { "damaged": 1, "damage": 0.01856594110115}, "model":"item/hats/safari_ears"},
-{ "predicate": { "damaged": 1, "damage": 0.01920614596670}, "model":"item/hats/figment_ears"}
+{ "predicate": { "damaged": 1, "damage": 0.01920614596670}, "model":"item/hats/safari_ears"},
+{ "predicate": { "damaged": 1, "damage": 0.01984635083226}, "model":"item/hats/figment_ears"}
 ]
 }
