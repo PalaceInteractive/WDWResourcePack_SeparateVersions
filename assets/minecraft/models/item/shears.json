@@ -45,6 +45,8 @@
       { "predicate": { "damaged": 1, "damage": 0.168067226890756}, "model": "item/rides/bench" },
       { "predicate": { "damaged": 1, "damage": 0.172268907563}, "model": "item/rides/trolley" },
       { "predicate": { "damaged": 1, "damage": 0.176470588235}, "model": "item/rides/tmrbench" },
-      { "predicate": { "damaged": 1, "damage": 0.180672268907}, "model": "item/rides/jcboat" }   
+      { "predicate": { "damaged": 1, "damage": 0.180672268907}, "model": "item/rides/jcboat" },
+      { "predicate": { "damaged": 1, "damage": 0.184873949579}, "model": "item/rides/potc_boat" } 
+
     ]
 }
