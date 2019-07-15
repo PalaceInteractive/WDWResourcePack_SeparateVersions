@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench by halofreak894",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "blocks/wool_colored_blue",
 		"2": "blocks/wool_colored_black",
@@ -1224,9 +1224,9 @@
 			"scale": [0.625, 0.775, 0.775]
 		},
 		"head": {
-			"scale": [3.175, 4, 4],
 			"rotation": [0, 180, 0],
-			"translation": [0, 32, 30.5]
+			"translation": [0, -10, 0],
+			"scale": [3.175, 4, 4]
 		}
 	}
 }

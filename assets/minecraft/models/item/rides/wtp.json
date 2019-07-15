@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench, by halofreak894 on 11/8/18",
+	"credit": "Made with Blockbench by halofreak894",
 	"textures": {
 		"0": "blocks/wool_colored_gray",
 		"1": "blocks/wool_colored_cyan",
@@ -1125,14 +1125,14 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"scale": [4, 4, 4],
-			"rotation": [1, 180, 0],
-			"translation": [0, 0.5, 10]
+			"rotation": [95, 180, 2],
+			"translation": [0, -1.75, 1.25],
+			"scale": [0.25, 0.25, 0.25]
 		},
 		"head": {
-			"scale": [2.875, 3.7, 3.325],
 			"rotation": [0, 180, 0],
-			"translation": [0, 32, 30]
+			"translation": [0, -15.5, 2],
+			"scale": [2.875, 3.7, 3.325]
 		}
 	}
 }
