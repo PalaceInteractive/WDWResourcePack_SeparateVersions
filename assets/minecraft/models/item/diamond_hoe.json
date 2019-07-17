@@ -37,6 +37,10 @@
 { "predicate": { "damaged": 1, "damage": 0.01984635083226}, "model":"item/hats/figment_ears"},
 { "predicate": { "damaged": 1, "damage": 0.0204865557}, "model":"item/hats/christmas_ears"},
 { "predicate": { "damaged": 1, "damage": 0.0211267606}, "model":"item/hats/donut_ears"},
-{ "predicate": { "damaged": 1, "damage": 0.0217669654}, "model":"item/hats/millennial_pink_ears"}
+{ "predicate": { "damaged": 1, "damage": 0.0217669654}, "model":"item/hats/millennial_pink_ears"},
+{ "predicate": { "damaged": 1, "damage": 0.022407170294}, "model":"item/hats/oswald_hat"},
+{ "predicate": { "damaged": 1, "damage": 0.0230473751600}, "model":"item/hats/potc_hat"},
+{ "predicate": { "damaged": 1, "damage": 0.0236875800256}, "model":"item/hats/winnie_hat"},
+{ "predicate": { "damaged": 1, "damage": 0.0243277848911}, "model":"item/hats/bday_hat"}
 ]
 }

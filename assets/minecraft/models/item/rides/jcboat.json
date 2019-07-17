@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Autvmn",
 	"textures": {
 		"0": "blocks/wool_colored_gray",
 		"1": "blocks/mushroom_block_inside",
@@ -2285,7 +2285,7 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [90, 0, 0],
-			"translation": [-5, 0, 28.25],
+			"translation": [-5, -68, 28.25],
 			"scale": [4, 4, 4]
 		}
 	},

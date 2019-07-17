@@ -1860,7 +1860,7 @@
 		},
 		"head": {
 			"rotation": [0, 270, 0],
-			"translation": [0, 10, 5.5],
+			"translation": [0, 10, 69.25],
 			"scale": [4, 4, 4]
 		}
 	}

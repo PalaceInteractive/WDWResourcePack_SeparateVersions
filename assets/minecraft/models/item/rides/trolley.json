@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Autvmn",
 	"textures": {
 		"0": "blocks/planks_oak",
 		"1": "blocks/wool_colored_green",
@@ -3075,7 +3075,7 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [90, 0, 0],
-			"translation": [-6, 0, 19],
+			"translation": [-6, -33.5, 19],
 			"scale": [4, 4, 4]
 		},
 		"thirdperson_lefthand": {
