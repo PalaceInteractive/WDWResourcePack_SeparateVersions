@@ -49,6 +49,7 @@
       { "predicate": { "damaged": 1, "damage": 0.184873949579}, "model": "item/rides/potc_boat" },
       { "predicate": { "damaged": 1, "damage": 0.1890756302521}, "model": "item/rides/aladdin" },
       { "predicate": { "damaged": 1, "damage": 0.1932773109243}, "model": "item/rides/aladdinarm" },
-      { "predicate": { "damaged": 1, "damage": 0.1974789915966}, "model": "item/rides/hm" }
+      { "predicate": { "damaged": 1, "damage": 0.1974789915966}, "model": "item/rides/hm" },
+      { "predicate": { "damaged": 1, "damage": 0.201680672}, "model": "item/rides/buzzsrs" }
     ]
 }
