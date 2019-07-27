@@ -56,6 +56,14 @@
       { "predicate": { "damaged": 1, "damage": 0.214285714}, "model": "item/rides/dumboorange" },
       { "predicate": { "damaged": 1, "damage": 0.218487395}, "model": "item/rides/dumbopink" },
       { "predicate": { "damaged": 1, "damage": 0.222689076}, "model": "item/rides/dumbored" },
-      { "predicate": { "damaged": 1, "damage": 0.226890756}, "model": "item/rides/dumboarm" }
+      { "predicate": { "damaged": 1, "damage": 0.226890756}, "model": "item/rides/dumboarm" },
+      { "predicate": { "damaged": 1, "damage": 0.2310924369}, "model": "item/rides/blue_frontback" },
+      { "predicate": { "damaged": 1, "damage": 0.23529411764}, "model": "item/rides/blue_middle" },
+      { "predicate": { "damaged": 1, "damage": 0.23949579831}, "model": "item/rides/green_frontback" },
+      { "predicate": { "damaged": 1, "damage": 0.24369747899}, "model": "item/rides/green_middle" },
+      { "predicate": { "damaged": 1, "damage": 0.24789915966}, "model": "item/rides/red_frontback" },
+      { "predicate": { "damaged": 1, "damage": 0.25210084033}, "model": "item/rides/red_middle" },
+      { "predicate": { "damaged": 1, "damage": 0.25630252100}, "model": "item/rides/yellow_frontback" },
+      { "predicate": { "damaged": 1, "damage": 0.26050420168}, "model": "item/rides/yellow_middle" }
     ]
 }
