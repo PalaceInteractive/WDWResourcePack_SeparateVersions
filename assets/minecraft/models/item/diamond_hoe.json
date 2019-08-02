@@ -45,7 +45,8 @@
 { "predicate": { "damaged": 1, "damage": 0.02496798975672}, "model":"item/hats/poisoned_apple_ears"},
 { "predicate": { "damaged": 1, "damage": 0.02560819462227}, "model":"item/hats/cruella_ears"},
 { "predicate": { "damaged": 1, "damage": 0.02624839948783}, "model":"item/hats/ursula_ears"},
-{ "predicate": { "damaged": 1, "damage": 0.02688860435339}, "model":"item/hats/ScanSunhat"},
-{ "predicate": { "damaged": 1, "damage": 0.02752880921895}, "model":"item/hats/MickeySunhat"}
+{ "predicate": { "damaged": 1, "damage": 0.02688860435339}, "model":"item/hats/scansunhat"},
+{ "predicate": { "damaged": 1, "damage": 0.02752880921895}, "model":"item/hats/mickeysunhat"},
+{ "predicate": { "damaged": 1, "damage": 0.0281690140845}, "model":"item/hats/builders_hat"}
 ]
 }
