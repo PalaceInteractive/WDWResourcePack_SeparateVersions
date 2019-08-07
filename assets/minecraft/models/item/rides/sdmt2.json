@@ -1,5 +1,5 @@
 {
-	"credit": "Made by GamerKM and halofreak894",
+	"credit": "Made by GamerKM",
 	"textures": {
 		"6": "blocks/wool_colored_black",
 		"7": "blocks/anvil_base",
@@ -9491,18 +9491,18 @@
 			"translation": [0.6956, 3.4782, 0],
 			"scale": [0.1, 0.1, 0.1]
 		},
+		"ground": {
+			"translation": [0, 3.4782, 0],
+			"scale": [0.15, 0.15, 0.15]
+		},
 		"gui": {
 			"rotation": [10, -30, 0],
 			"scale": [0.35, 0.35, 0.35]
 		},
 		"head": {
 			"rotation": [0, 180, 0],
-			"translation": [0, 24, 32],
+			"translation": [0, -22, 0],
 			"scale": [2.2, 2.2, 2.2]
-		},
-		"ground": {
-			"translation": [0, 3.4782, 0],
-			"scale": [0.15, 0.15, 0.15]
 		},
 		"fixed": {
 			"rotation": [-14, 128, -3],
