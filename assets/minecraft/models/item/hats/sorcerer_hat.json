@@ -1,5 +1,5 @@
 {
-	"credit": "Made by Anivator",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "blocks/gold_ore",
 		"1": "blocks/wool_colored_black",
@@ -2106,7 +2106,6 @@
 			"scale": [1.27539, 1.57813, 1]
 		},
 		"head": {
-			"rotation": [0, 180, 0],
 			"translation": [0, 25.5, 0],
 			"scale": [2.0332, 2.33203, 1.81641]
 		},
