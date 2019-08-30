@@ -65,8 +65,9 @@
       { "predicate": { "damaged": 1, "damage": 0.25210084033}, "model": "item/rides/red_middle" },
       { "predicate": { "damaged": 1, "damage": 0.25630252100}, "model": "item/rides/yellow_frontback" },
       { "predicate": { "damaged": 1, "damage": 0.26050420168}, "model": "item/rides/yellow_middle" },
-	  { "predicate": { "damaged": 1, "damage": 0.26470588}, "model": "item/rides/wdwrrfront" },
-	  { "predicate": { "damaged": 1, "damage": 0.26890756}, "model": "item/rides/wdwrrmiddle" },
-	  { "predicate": { "damaged": 1, "damage": 0.27310924}, "model": "item/rides/wdwrrback" }
+	    { "predicate": { "damaged": 1, "damage": 0.26470588}, "model": "item/rides/wdwrrfront" },
+	    { "predicate": { "damaged": 1, "damage": 0.26890756}, "model": "item/rides/wdwrrmiddle" },
+	    { "predicate": { "damaged": 1, "damage": 0.27310924}, "model": "item/rides/wdwrrback" },
+      { "predicate": { "damaged": 1, "damage": 0.277310924}, "model": "item/rides/transportation_1" }
     ]
 }

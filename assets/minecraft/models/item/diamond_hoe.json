@@ -48,6 +48,7 @@
 { "predicate": { "damaged": 1, "damage": 0.02688860435339}, "model":"item/hats/scan_hat"},
 { "predicate": { "damaged": 1, "damage": 0.02752880921895}, "model":"item/hats/mickeysunhat"},
 { "predicate": { "damaged": 1, "damage": 0.0281690140845}, "model":"item/hats/builders_hat"},
-{ "predicate": { "damaged": 1, "damage": 0.028809218950064}, "model":"item/hats/sorcerer_hat"}
+{ "predicate": { "damaged": 1, "damage": 0.028809218950064}, "model":"item/hats/sorcerer_hat"},
+{ "predicate": { "damaged": 1, "damage": 0.0294494238}, "model":"item/handitems/backpack"}
 ]
 }
