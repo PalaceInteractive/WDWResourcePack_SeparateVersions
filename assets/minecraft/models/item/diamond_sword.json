@@ -26,7 +26,8 @@
     { "predicate": { "damaged": 1, "damage": 0.0102498398}, "model":"item/handitems/balloon_yellow"},
     { "predicate": { "damaged": 1, "damage": 0.0108904548}, "model":"item/decorations/ghost_hearse"},
 	{ "predicate": { "damaged": 1, "damage": 0.01153107}, "model":"item/decorations/lightning"},
-	{ "predicate": { "damaged": 1, "damage": 0.01217168}, "model":"item/decorations/cruz"}
+	{ "predicate": { "damaged": 1, "damage": 0.01217168}, "model":"item/decorations/cruz"},
+	{ "predicate": { "damaged": 1, "damage": 0.0128123}, "model":"item/decorations/smlights"}
 ],
 "elements": [
 {

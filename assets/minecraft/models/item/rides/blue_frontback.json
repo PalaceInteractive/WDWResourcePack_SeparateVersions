@@ -1,5 +1,5 @@
 {
-	"credit": "Made by Autvmn",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "blocks/wool_colored_cyan",
 		"1": "blocks/wool_colored_white",
@@ -16,7 +16,7 @@
 		"14": "blocks/nether_brick",
 		"15": "blocks/command_block",
 		"16": "blocks/wool_colored_red",
-		"particle": "blocks/wool_colored_cyan"
+		"particle": "blocks/wool_colored_red"
 	},
 	"elements": [
 		{
@@ -4583,7 +4583,7 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [90, 0, 0],
-			"translation": [0, 24.5, 0],
+			"translation": [0, -53.75, 0],
 			"scale": [4, 4, 4]
 		},
 		"head": {
