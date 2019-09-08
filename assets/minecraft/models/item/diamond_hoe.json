@@ -50,6 +50,7 @@
 { "predicate": { "damaged": 1, "damage": 0.0281690140845}, "model":"item/hats/builders_hat"},
 { "predicate": { "damaged": 1, "damage": 0.028809218950064}, "model":"item/hats/sorcerer_hat"},
 { "predicate": { "damaged": 1, "damage": 0.02944942}, "model":"item/hats/glasses"},
-{ "predicate": { "damaged": 1, "damage": 0.0300896287}, "model":"item/handitems/backpack"}
+{ "predicate": { "damaged": 1, "damage": 0.0300896287}, "model":"item/handitems/backpack"},
+{ "predicate": { "damaged": 1, "damage": 0.03072983354}, "model":"item/hats/minnie_ears_hat"}
 ]
 }
