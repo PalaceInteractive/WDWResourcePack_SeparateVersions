@@ -18,7 +18,7 @@
 		"texture13": "blocks/wool_colored_black",
 		"texture14": "blocks/clay"
 	},
-	"elements": [
+	"elements": [ 	 
 		{
 			"__comment": "Cube23",
 			"from": [ -8.125, 0.375, 5.875 ],
@@ -2625,6 +2625,9 @@
 		}
 	],
 	"display": {
+		"gui": {
+			"scale":  [ 0.4173, 0.4173, 0.4173 ]
+		},
 		"head": {
 			"rotation":  [ 0, 180, 0 ],
 			"translation":  [ 0, 19.474, 0 ],

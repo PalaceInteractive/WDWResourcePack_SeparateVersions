@@ -16,7 +16,7 @@
 		"texture11": "blocks/hardened_clay_stained_brown",
 		"texture12": "blocks/wool_colored_silver"
 	},
-	"elements": [
+	"elements": [ 	 
 		{
 			"__comment": "Cube1",
 			"from": [ 8, 3.875, 4.5 ],
@@ -3257,6 +3257,10 @@
 		}
 	],
 	"display": {
+		"gui": {
+			"translation":  [ -1.391, 2.0869, 0 ],
+			"scale":  [ 0.4433, 0.4433, 0.4086 ]
+		},
 		"head": {
 			"translation":  [ -13.21, -2.771, 0 ],
 			"scale":  [ 2.5216, 2.4694, 2.5565 ]
