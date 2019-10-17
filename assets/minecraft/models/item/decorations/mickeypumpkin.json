@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Autvmn",
+	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
 		"0": "blocks/pumpkin_face_off",
@@ -1507,7 +1507,7 @@
 			"scale": [0.83, 0.83, 0.83]
 		},
 		"fixed": {
-			"translation": [0, 2.25, -1.25],
+			"translation": [0, 2.25, 2.75],
 			"scale": [3, 3, 3]
 		}
 	},

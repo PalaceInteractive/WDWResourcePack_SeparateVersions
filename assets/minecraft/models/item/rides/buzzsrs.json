@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench by Autvmn",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "blocks/wool_colored_orange",
 		"1": "blocks/wool_colored_lime",
@@ -2755,7 +2755,7 @@
 			"scale": [0.76, 0.97, 0.9]
 		},
 		"head": {
-			"translation": [0, -14, 0],
+			"translation": [0, 23.25, 0],
 			"scale": [4, 4, 4]
 		},
 		"fixed": {
