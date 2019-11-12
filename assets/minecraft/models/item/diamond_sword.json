@@ -30,7 +30,8 @@
 	{ "predicate": { "damaged": 0, "damage": 0.0128123}, "model":"item/decorations/smlights"},
 	{ "predicate": { "damaged": 0, "damage": 0.01345291}, "model":"item/decorations/mickeypumpkin"},
 	{ "predicate": { "damaged": 0, "damage": 0.01409352978}, "model":"item/handitems/mnsshppin"},
-	{ "predicate": { "damaged": 0, "damage": 0.01473414477}, "model":"item/decorations/mnsshpcauldron"}
+	{ "predicate": { "damaged": 0, "damage": 0.01473414477}, "model":"item/decorations/mnsshpcauldron"},
+  { "predicate": { "damaged": 0, "damage": 0.01537475976}, "model":"item/decorations/wreath"}
 ],
 "elements": [
 {
