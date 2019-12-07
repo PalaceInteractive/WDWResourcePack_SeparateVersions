@@ -29,10 +29,12 @@
 	{ "predicate": { "damaged": 0, "damage": 0.01217168}, "model":"item/decorations/cruz"},
 	{ "predicate": { "damaged": 0, "damage": 0.0128123}, "model":"item/decorations/smlights"},
 	{ "predicate": { "damaged": 0, "damage": 0.01345291}, "model":"item/decorations/mickeypumpkin"},
-	{ "predicate": { "damaged": 0, "damage": 0.01409352978}, "model":"item/handitems/mnsshppin"},
+	{ "predicate": { "damaged": 0, "damage": 0.01409352978}, "model":"item/handitems/mvmcppin"},
 	{ "predicate": { "damaged": 0, "damage": 0.01473414477}, "model":"item/decorations/mnsshpcauldron"},
 	{ "predicate": { "damaged": 0, "damage": 0.01537476}, "model":"item/decorations/wreath"},
-	{ "predicate": { "damaged": 0, "damage": 0.01601537}, "model":"item/handitems/snowiecone"}
+	{ "predicate": { "damaged": 0, "damage": 0.01601537}, "model":"item/handitems/snowiecone"},
+	{ "predicate": { "damaged": 0, "damage": 0.01665598975016}, "model":"item/decorations/kite"},
+	{ "predicate": { "damaged": 0, "damage": 0.0172966}, "model":"item/decorations/kiteflag"}
 ],
 "elements": [
 {
