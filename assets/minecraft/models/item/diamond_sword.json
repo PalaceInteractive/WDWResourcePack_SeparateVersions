@@ -34,7 +34,8 @@
 	{ "predicate": { "damaged": 0, "damage": 0.01537476}, "model":"item/decorations/wreath"},
 	{ "predicate": { "damaged": 0, "damage": 0.01601537}, "model":"item/handitems/snowiecone"},
 	{ "predicate": { "damaged": 0, "damage": 0.01665598975016}, "model":"item/decorations/kite"},
-	{ "predicate": { "damaged": 0, "damage": 0.0172966}, "model":"item/decorations/kiteflag"}
+	{ "predicate": { "damaged": 0, "damage": 0.0172966}, "model":"item/decorations/kiteflag"},
+  { "predicate": { "damaged": 0, "damage": 0.0179372}, "model":"item/decorations/dreidal"}
 ],
 "elements": [
 {
