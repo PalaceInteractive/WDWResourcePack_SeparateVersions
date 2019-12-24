@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/wool_colored_red",
-		"1": "blocks/log_oak",
-		"2": "blocks/wool_colored_black",
-		"3": "blocks/leaves_spruce_opaque",
-		"4": "blocks/cactus_bottom",
-		"6": "blocks/wool_colored_purple",
-		"particle": "blocks/wool_colored_red"
+		"0": "block/red_wool",
+		"1": "block/oak_log",
+		"2": "block/black_wool",
+		"3": "block/leaves_spruce_opaque",
+		"4": "block/cactus_bottom",
+		"6": "block/purple_wool",
+		"particle": "block/red_wool"
 	},
 	"elements": [
 		{

@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "items/nether_wart",
-		"1": "blocks/wool_colored_light_blue",
+		"0": "item/nether_wart",
+		"1": "block/light_blue_wool",
 		"3": "custom/dreidal",
-		"particle": "items/nether_wart"
+		"particle": "item/nether_wart"
 	},
 	"elements": [
 		{

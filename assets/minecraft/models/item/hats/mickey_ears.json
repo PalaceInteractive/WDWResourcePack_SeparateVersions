@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"texture1": "blocks/wool_colored_black"
+		"texture1": "block/black_wool"
 	},
 	"elements": [
 		{

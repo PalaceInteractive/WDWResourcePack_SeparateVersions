@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "items/potato",
-		"1": "blocks/wool_colored_white",
-		"particle": "items/potato"
+		"0": "item/potato",
+		"1": "block/white_wool",
+		"particle": "item/potato"
 	},
 	"elements": [
 		{

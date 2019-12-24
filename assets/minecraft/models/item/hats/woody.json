@@ -1,9 +1,9 @@
 {
 	"__comment": "Designed by Cm@BlackSpigotMC with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/e_particle",
-		"texture": "blocks/hardened_clay_stained_brown",
-		"texture1": "blocks/concrete_brown"
+		"particle": "block/e_particle",
+		"texture": "block/brown_terracotta",
+		"texture1": "block/brown_concrete"
 	},
 	"elements": [
 		{

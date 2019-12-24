@@ -1,10 +1,10 @@
 {
 	"credit": "Autvmns First Model",
 	"textures": {
-		"0": "blocks/piston_top_normal",
-		"1": "blocks/wool_colored_green",
-		"2": "blocks/astrogrill",
-		"particle": "blocks/piston_top_normal"
+		"0": "block/piston_top_normal",
+		"1": "block/green_wool",
+		"2": "block/astrogrill",
+		"particle": "block/piston_top_normal"
 	},
 	"elements": [
 		{

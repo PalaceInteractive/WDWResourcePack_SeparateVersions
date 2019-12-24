@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "blocks/wool_colored_lime",
-		"2": "blocks/wool_colored_black",
+		"1": "block/lime_wool",
+		"2": "block/black_wool",
 		"3": "custom/goofy1",
 		"4": "custom/goofy2",
 		"5": "custom/goofy3"

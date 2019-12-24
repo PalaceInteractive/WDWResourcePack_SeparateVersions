@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "custom/spacemountainlight",
-		"1": "blocks/wool_colored_blue",
+		"1": "block/blue_wool",
 		"particle": "custom/spacemountainlight"
 	},
 	"elements": [

@@ -1,15 +1,15 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/wool_colored_orange",
-		"1": "blocks/wool_colored_lime",
-		"2": "blocks/wool_colored_blue",
-		"3": "blocks/gold_block",
-		"4": "blocks/wool_colored_light_blue",
+		"0": "block/orange_wool",
+		"1": "block/lime_wool",
+		"2": "block/blue_wool",
+		"3": "block/gold_block",
+		"4": "block/light_blue_wool",
 		"5": "custom/buzzlogo",
-		"6": "blocks/wool_colored_silver",
-		"7": "blocks/wool_colored_black",
-		"particle": "blocks/wool_colored_orange"
+		"6": "block/gray_wool",
+		"7": "block/black_wool",
+		"particle": "block/orange_wool"
 	},
 	"elements": [
 		{

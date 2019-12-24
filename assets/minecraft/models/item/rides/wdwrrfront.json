@@ -1,20 +1,20 @@
 {
 	"credit": "Made by Autvmn",
 	"textures": {
-		"0": "blocks/door_iron_lower",
-		"2": "blocks/wool_colored_green",
-		"3": "blocks/gold_block",
-		"4": "blocks/redstone_block",
-		"6": "blocks/clay",
-		"8": "blocks/hardened_clay_stained_cyan",
-		"9": "blocks/wool_colored_red",
-		"10": "blocks/wool_colored_white",
-		"11": "blocks/wool_colored_black",
-		"12": "blocks/hardened_clay_stained_yellow",
-		"13": "blocks/wool_colored_green",
-		"14": "blocks/glass_gray",
+		"0": "block/door_iron_lower",
+		"2": "block/green_wool",
+		"3": "block/gold_block",
+		"4": "block/redstone_block",
+		"6": "block/clay",
+		"8": "block/cyan_terracotta",
+		"9": "block/red_wool",
+		"10": "block/white_wool",
+		"11": "block/black_wool",
+		"12": "block/yellow_terracotta",
+		"13": "block/green_wool",
+		"14": "block/gray_stained_glass",
 		"15": "custom/lillybellelogo",
-		"particle": "blocks/door_iron_lower"
+		"particle": "block/door_iron_lower"
 	},
 	"elements": [
 		{

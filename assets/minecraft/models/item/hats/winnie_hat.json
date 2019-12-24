@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "blocks/wool_colored_black",
-		"6": "blocks/hardened_clay_stained_red",
-		"8": "blocks/hardened_clay_stained_yellow",
-		"11": "blocks/command_block"
+		"1": "block/black_wool",
+		"6": "block/red_terracotta",
+		"8": "block/yellow_terracotta",
+		"11": "block/command_block"
 	},
 	"elements": [
 		{

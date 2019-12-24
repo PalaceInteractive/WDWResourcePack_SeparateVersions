@@ -1,20 +1,20 @@
 {
 	"__comment": "Designed by Kodak_kev with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/e_particle",
-		"texture1": "blocks/wool_colored_black",
-		"texture2": "blocks/wool_colored_gray",
-		"texture": "blocks/wool_colored_white",
-		"texture4": "blocks/cobblestone_mossy",
-		"texture3": "blocks/gold_block",
-		"texture5": "blocks/wool_colored_red",
-		"texture6": "blocks/wool_colored_blue",
-		"texture7": "blocks/wool_colored_pink",
-		"texture8": "blocks/mushroom_block_inside",
-		"texture9": "blocks/hardened_clay_stained_yellow",
-		"texture10": "blocks/hardened_clay_stained_silver",
-		"texture11": "blocks/hardened_clay_stained_brown",
-		"texture12": "blocks/wool_colored_silver"
+		"particle": "block/e_particle",
+		"texture1": "block/black_wool",
+		"texture2": "block/gray_wool",
+		"texture": "block/white_wool",
+		"texture4": "block/mossy_cobblestone",
+		"texture3": "block/gold_block",
+		"texture5": "block/red_wool",
+		"texture6": "block/blue_wool",
+		"texture7": "block/pink_wool",
+		"texture8": "block/mushroom_block_inside",
+		"texture9": "block/yellow_terracotta",
+		"texture10": "block/gray_terracotta",
+		"texture11": "block/brown_terracotta",
+		"texture12": "block/gray_wool"
 	},
 	"elements": [ 	 
 		{
