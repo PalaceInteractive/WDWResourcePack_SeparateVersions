@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/brown_concrete",
-		"1": "block/mushroom_block_skin_stem",
+		"1": "block/mushroom_stem",
 		"2": "block/white_terracotta",
 		"particle": "block/brown_concrete"
 	},

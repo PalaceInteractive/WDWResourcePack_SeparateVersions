@@ -1,8 +1,8 @@
 {
-    "parent": "block/half_slab",
+    "parent": "block/slab",
     "textures": {
-        "bottom": "block/stonebrick5",
-        "top": "block/stonebrick5",
-        "side": "block/stonebrick5"
+        "bottom": "block/stone_bricks5",
+        "top": "block/stone_bricks5",
+        "side": "block/stone_bricks5"
     }
 }

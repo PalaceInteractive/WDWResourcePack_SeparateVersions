@@ -3,8 +3,8 @@
     "textures": {
         "particle": "block/bricks",
         "0": "block/gray_wool",
-        "1": "block/rail_normal_turned",
-        "2": "block/rail_normal"
+        "1": "block/rail_corner",
+        "2": "block/rail"
     },
     "elements": [
         {
