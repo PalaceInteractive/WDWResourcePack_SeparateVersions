@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Kastle",
 	"textures": {
 		"0": "blocks/log_oak_top",
 		"1": "blocks/log_jungle_top",
@@ -3236,6 +3236,7 @@
 	],
 	"display": {
 		"head": {
+			"translation": [0, -21.75, 48.5],
 			"scale": [2.67, 2.5, 2.5]
 		}
 	},

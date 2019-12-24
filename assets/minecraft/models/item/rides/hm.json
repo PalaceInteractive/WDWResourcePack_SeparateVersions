@@ -2170,8 +2170,8 @@
 	],
 	"display": {
 		"head": {
-			"translation": [0, 32, 25.5],
-			"scale": [4, 4, 4]
+			"translation": [0, -11, -2.5],
+			"scale": [4, 4, 3]
 		}
 	},
 	"groups": [
