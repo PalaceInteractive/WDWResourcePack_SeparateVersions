@@ -1,7 +1,7 @@
 {
 	"credit": "anivator",
 	"textures": {
-		"0": "block/piston_top_normal",
+		"0": "block/piston_top",
 		"1": "block/red_wool",
 		"2": "block/spruce_planks",
 		"3": "block/sand",
@@ -15,7 +15,7 @@
 		"14": "block/dark_oak_planks",
 		"15": "block/dark_oak_planks",
 		"16": "block/gray_terracotta",
-		"17": "block/anvil_base",
+		"17": "block/anvil",
 		"18": "block/yellow_terracotta",
 		"19": "block/yellow_wool",
 		"20": "block/red_wool",
@@ -24,7 +24,7 @@
 		"24": "block/white_terracotta",
 		"25": "block/white_wool",
 		"27": "block/glass",
-		"particle": "block/piston_top_normal"
+		"particle": "block/piston_top"
 	},
 	"elements": [
 		{

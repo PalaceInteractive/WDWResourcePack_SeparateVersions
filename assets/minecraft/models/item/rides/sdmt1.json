@@ -2,7 +2,7 @@
 	"credit": "Made by GamerKM",
 	"textures": {
 		"6": "block/black_wool",
-		"7": "block/anvil_base",
+		"7": "block/anvil",
 		"planks_dark": "block/dark_oak_planks",
 		"coal_block": "block/coal_block",
 		"anvil": "block/cyan_terracotta",

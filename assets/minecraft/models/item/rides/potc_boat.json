@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"8": "block/yellow_wool",
-		"texture": "block/mushroom_block_skin_brown",
+		"texture": "block/brown_mushroom_block",
 		"texture1": "block/nether_bricks",
 		"texture2": "block/sandstone_bottom",
 		"texture3": "block/gray_wool",

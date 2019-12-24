@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/anvil_base",
-		"2": "block/anvil_base",
+		"1": "block/anvil",
+		"2": "block/anvil",
 		"3": "block/piston_bottom",
 		"4": "block/red_wool",
 		"7": "block/glass",
