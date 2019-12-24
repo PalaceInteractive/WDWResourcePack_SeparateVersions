@@ -2,8 +2,8 @@
 	"credit": "Made by Autvmn",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "blocks/beacon",
-		"1": "blocks/obsidian"
+		"0": "block/beacon",
+		"1": "block/obsidian"
 	},
 	"elements": [
 		{

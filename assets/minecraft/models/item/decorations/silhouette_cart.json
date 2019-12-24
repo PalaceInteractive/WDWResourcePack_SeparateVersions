@@ -1,19 +1,19 @@
 {
 	"credit": "anivator",
 	"textures": {
-		"0": "blocks/hardened_clay_stained_white",
-		"2": "blocks/hardened_clay_stained_white",
-		"3": "blocks/wool_colored_black",
-		"9": "blocks/door_iron_upper",
-		"11": "blocks/hardened_clay_stained_yellow",
-		"14": "blocks/hardened_clay_stained_black",
-		"15": "blocks/wool_colored_red",
-		"18": "blocks/wool_colored_white",
-		"19": "blocks/crafting_table_side",
-		"20": "blocks/end_stone",
-		"21": "blocks/wool_colored_silver",
-		"22": "blocks/wool_colored_black",
-		"particle": "blocks/hardened_clay_stained_white"
+		"0": "block/white_terracotta",
+		"2": "block/white_terracotta",
+		"3": "block/black_wool",
+		"9": "block/door_iron_upper",
+		"11": "block/yellow_terracotta",
+		"14": "block/black_terracotta",
+		"15": "block/red_wool",
+		"18": "block/white_wool",
+		"19": "block/crafting_table_side",
+		"20": "block/end_stone",
+		"21": "block/gray_wool",
+		"22": "block/black_wool",
+		"particle": "block/white_terracotta"
 	},
 	"elements": [
 		{

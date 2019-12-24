@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/astrogrill",
-		"1": "blocks/wool_colored_black",
-		"2": "blocks/wool_colored_green",
+		"0": "block/astrogrill",
+		"1": "block/black_wool",
+		"2": "block/green_wool",
 		"3": "custom/candycauldron",
 		"4": "custom/mickeycandycauldron",
-		"particle": "blocks/astrogrill"
+		"particle": "block/astrogrill"
 	},
 	"elements": [
 		{

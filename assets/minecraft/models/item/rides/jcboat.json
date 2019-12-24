@@ -1,17 +1,17 @@
 {
 	"credit": "Made with Blockbench by Autvmn",
 	"textures": {
-		"0": "blocks/wool_colored_gray",
-		"1": "blocks/mushroom_block_inside",
-		"2": "blocks/hardened_clay_stained_black",
-		"4": "blocks/planks_spruce",
-		"5": "blocks/wool_colored_green",
-		"6": "blocks/wool_colored_white",
-		"7": "blocks/piston_bottom",
-		"8": "blocks/planks_big_oak",
+		"0": "block/gray_wool",
+		"1": "block/mushroom_block_inside",
+		"2": "block/black_terracotta",
+		"4": "block/spruce_planks",
+		"5": "block/green_wool",
+		"6": "block/white_wool",
+		"7": "block/piston_bottom",
+		"8": "block/dark_oak_planks",
 		"9": "custom/jcboattop",
 		"10": "custom/egamerskin",
-		"particle": "blocks/wool_colored_gray"
+		"particle": "block/gray_wool"
 	},
 	"elements": [
 		{

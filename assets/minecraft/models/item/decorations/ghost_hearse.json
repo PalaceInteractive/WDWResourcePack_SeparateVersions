@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/coal_ore",
-		"1": "blocks/obsidian",
-		"2": "blocks/wool_colored_black",
-		"3": "blocks/coal_block",
-		"4": "blocks/wool_colored_silver",
-		"particle": "blocks/coal_ore"
+		"0": "block/coal_ore",
+		"1": "block/obsidian",
+		"2": "block/black_wool",
+		"3": "block/coal_block",
+		"4": "block/gray_wool",
+		"particle": "block/coal_ore"
 	},
 	"elements": [
 		{

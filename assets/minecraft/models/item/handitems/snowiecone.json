@@ -1,9 +1,9 @@
 {
 	"credit": "Made by Panic",
 	"textures": {
-		"1": "blocks/wool_colored_white",
-		"45": "blocks/astrobase",
-		"particle": "blocks/wool_colored_white"
+		"1": "block/white_wool",
+		"45": "block/astrobase",
+		"particle": "block/white_wool"
 	},
 	"elements": [
 		{

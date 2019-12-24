@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/hardened_clay_stained_yellow",
-		"4": "blocks/crafting_table_side",
-		"5": "blocks/wool_colored_black",
-		"6": "blocks/wool_colored_yellow",
-		"particle": "blocks/hardened_clay_stained_yellow"
+		"0": "block/yellow_terracotta",
+		"4": "block/crafting_table_side",
+		"5": "block/black_wool",
+		"6": "block/yellow_wool",
+		"particle": "block/yellow_terracotta"
 	},
 	"elements": [
 		{
