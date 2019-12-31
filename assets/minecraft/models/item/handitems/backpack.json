@@ -1,17 +1,17 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"11": "blocks/dropper_front_horizontal",
-		"20": "blocks/astrogrill",
-		"21": "blocks/wool_colored_white",
-		"22": "blocks/coal_block",
-		"24": "blocks/astro",
-		"25": "blocks/furnace_top",
-		"26": "blocks/concrete_black",
-		"6_5": "blocks/concrete_black",
-		"particle": "blocks/concrete_black",
-		"6_6": "blocks/concrete_red",
-		"6_texture": "blocks/wool_colored_black"
+		"11": "block/dropper_front_horizontal",
+		"20": "block/astrogrill",
+		"21": "block/white_wool",
+		"22": "block/coal_block",
+		"24": "block/astro",
+		"25": "block/furnace_top",
+		"26": "block/black_concrete",
+		"6_5": "block/black_concrete",
+		"particle": "block/black_concrete",
+		"6_6": "block/red_concrete",
+		"6_texture": "block/black_wool"
 	},
 	"elements": [
 		{

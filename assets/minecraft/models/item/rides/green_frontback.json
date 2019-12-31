@@ -1,22 +1,22 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/wool_colored_lime",
-		"1": "blocks/wool_colored_white",
-		"2": "blocks/wool_colored_black",
-		"3": "blocks/bed_head_top",
-		"4": "blocks/astrobase",
-		"5": "blocks/wool_colored_silver",
-		"6": "blocks/anvil_base",
-		"7": "blocks/wool_colored_gray",
+		"0": "block/lime_wool",
+		"1": "block/white_wool",
+		"2": "block/black_wool",
+		"3": "block/bed_head_top",
+		"4": "block/astrobase",
+		"5": "block/gray_wool",
+		"6": "block/anvil",
+		"7": "block/gray_wool",
 		"8": "custom/wdwmsystem",
-		"10": "blocks/glass_black",
-		"11": "blocks/daylight_detector_top",
-		"13": "blocks/astrogrill",
-		"14": "blocks/nether_brick",
-		"15": "blocks/command_block",
-		"16": "blocks/wool_colored_red",
-		"particle": "blocks/wool_colored_red"
+		"10": "block/black_stained_glass",
+		"11": "block/daylight_detector_top",
+		"13": "block/astrogrill",
+		"14": "block/nether_bricks",
+		"15": "block/command_block",
+		"16": "block/red_wool",
+		"particle": "block/red_wool"
 	},
 	"elements": [
 		{

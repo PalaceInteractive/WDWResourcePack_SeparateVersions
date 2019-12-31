@@ -2,11 +2,11 @@
 	"credit": "Made by Autvmn",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "blocks/iron_block",
-		"1": "blocks/gold_block",
-		"3": "blocks/wool_colored_black",
-		"5": "blocks/emerald_block",
-		"particle": "blocks/emerald_block"
+		"0": "block/iron_block",
+		"1": "block/gold_block",
+		"3": "block/black_wool",
+		"5": "block/emerald_block",
+		"particle": "block/emerald_block"
 	},
 	"elements": [
 		{

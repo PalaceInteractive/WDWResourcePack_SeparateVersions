@@ -1,19 +1,19 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/hardened_clay_stained_red",
-		"1": "blocks/hardened_clay_stained_yellow",
-		"2": "blocks/wool_colored_black",
-		"3": "blocks/astro",
-		"4": "blocks/hardened_clay_stained_cyan",
-		"5": "blocks/wool_colored_white",
-		"6": "blocks/daylight_detector_inverted_top",
+		"0": "block/red_terracotta",
+		"1": "block/yellow_terracotta",
+		"2": "block/black_wool",
+		"3": "block/astro",
+		"4": "block/cyan_terracotta",
+		"5": "block/white_wool",
+		"6": "block/daylight_detector_inverted_top",
 		"7": "custom/lightningeyes",
 		"8": "custom/95lightning",
 		"9": "custom/rusteze",
 		"10": "custom/rustezetext",
 		"11": "custom/lightningsmile",
-		"particle": "blocks/hardened_clay_stained_red"
+		"particle": "block/red_terracotta"
 	},
 	"elements": [
 		{

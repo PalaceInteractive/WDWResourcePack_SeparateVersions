@@ -1,10 +1,10 @@
 {
 	"credit": "Made by Anivator",
 	"textures": {
-		"0": "blocks/glass_white",
-		"1": "blocks/wool_colored_lime",
-		"2": "blocks/wool_colored_white",
-		"particle": "blocks/glass_white"
+		"0": "block/white_stained_glass",
+		"1": "block/lime_wool",
+		"2": "block/white_wool",
+		"particle": "block/white_stained_glass"
 	},
 	"elements": [
 		{

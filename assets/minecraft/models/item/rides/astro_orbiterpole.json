@@ -1,8 +1,8 @@
 {
 	"__comment": "Designed by Kodak_kev with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/e_particle",
-		"texture": "blocks/wool_colored_black"
+		"particle": "block/e_particle",
+		"texture": "block/black_wool"
 	},
 	"elements": [
 		{

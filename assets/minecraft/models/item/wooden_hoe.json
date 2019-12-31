@@ -1,11 +1,11 @@
 {
 	"credit": "Made by Anivator",
 	"textures": {
-		"0": "blocks/wool_colored_orange",
-		"1": "blocks/wool_colored_lime",
-		"2": "blocks/wool_colored_blue",
-		"3": "blocks/gold_block",
-		"particle": "blocks/wool_colored_orange"
+		"0": "block/orange_wool",
+		"1": "block/lime_wool",
+		"2": "block/blue_wool",
+		"3": "block/gold_block",
+		"particle": "block/orange_wool"
 	},
 	"elements": [
 		{

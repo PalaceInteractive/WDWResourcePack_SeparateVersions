@@ -1,10 +1,10 @@
 {
 	"__comment": "Designed by Gooby <3",
 	"textures": {
-		"Voxel-00FF00": "blocks/crown",
-		"Voxel-FFFFFF": "blocks/wand",
-		"Voxel-000000": "blocks/wool_colored_black",
-		"Voxel-626262": "blocks/wool_colored_silver"
+		"Voxel-00FF00": "block/crown",
+		"Voxel-FFFFFF": "block/wand",
+		"Voxel-000000": "block/black_wool",
+		"Voxel-626262": "block/gray_wool"
 	},
 	"elements": [
 		{

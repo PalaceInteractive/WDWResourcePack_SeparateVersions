@@ -1,14 +1,14 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/wool_colored_purple",
-		"1": "blocks/sandstone_top",
-		"2": "blocks/sand",
-		"3": "blocks/wool_colored_black",
-		"4": "blocks/wool_colored_magenta",
-		"5": "blocks/wool_colored_pink",
-		"6": "blocks/wool_colored_white",
-		"particle": "blocks/wool_colored_purple"
+		"0": "block/purple_wool",
+		"1": "block/sandstone_top",
+		"2": "block/sand",
+		"3": "block/black_wool",
+		"4": "block/magenta_wool",
+		"5": "block/pink_wool",
+		"6": "block/white_wool",
+		"particle": "block/purple_wool"
 	},
 	"elements": [
 		{

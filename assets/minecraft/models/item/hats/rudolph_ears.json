@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "blocks/concrete_brown",
-		"4": "blocks/cake_inner",
-		"6": "blocks/concrete_white",
-		"7": "blocks/redstone_ore",
-		"particle": "blocks/concrete_brown"
+		"2": "block/brown_concrete",
+		"4": "block/cake_inner",
+		"6": "block/white_concrete",
+		"7": "block/redstone_ore",
+		"particle": "block/brown_concrete"
 	},
 	"elements": [
 		{

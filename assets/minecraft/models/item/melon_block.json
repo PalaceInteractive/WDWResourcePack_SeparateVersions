@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Boogie with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/wool_colored_red",
+		"particle": "block/red_wool",
 		"texture": "custom/santahat"
 	},
 	"elements": [
