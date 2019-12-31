@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "items/cookie"
+		"2": "item/cookie"
 	},
 	"elements": [
 		{

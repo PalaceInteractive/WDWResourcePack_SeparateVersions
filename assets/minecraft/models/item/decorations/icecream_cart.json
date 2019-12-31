@@ -1,18 +1,18 @@
 {
 	"credit": "anivator",
 	"textures": {
-		"2": "blocks/astrogrill",
-		"3": "blocks/daylight_detector_side",
-		"4": "blocks/hardened_clay_stained_black",
-		"5": "blocks/anvil_base",
-		"6": "blocks/stone_slab_side",
-		"7": "blocks/door_iron_lower",
-		"9": "blocks/wool_colored_black",
-		"10": "blocks/anvil_base",
-		"11": "blocks/wool_colored_white",
-		"12": "blocks/wool_colored_blue",
-		"13": "blocks/gold_ore",
-		"particle": "blocks/astrogrill"
+		"2": "block/astrogrill",
+		"3": "block/daylight_detector_side",
+		"4": "block/black_terracotta",
+		"5": "block/anvil",
+		"6": "block/stone_slab_side",
+		"7": "block/iron_door_bottom",
+		"9": "block/black_wool",
+		"10": "block/anvil",
+		"11": "block/white_wool",
+		"12": "block/blue_wool",
+		"13": "block/gold_ore",
+		"particle": "block/astrogrill"
 	},
 	"elements": [
 		{

@@ -2,9 +2,9 @@
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
 "ambientocclusion": false,
     "textures": {
-        "particle": "blocks/brick",
-        "0": "blocks/rail_normal",
-        "1": "blocks/wool_colored_gray"
+        "particle": "block/bricks",
+        "0": "block/rail",
+        "1": "block/gray_wool"
     },
     "elements": [
         {

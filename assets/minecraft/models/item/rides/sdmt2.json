@@ -1,13 +1,13 @@
 {
 	"credit": "Made by GamerKM",
 	"textures": {
-		"6": "blocks/wool_colored_black",
-		"7": "blocks/anvil_base",
-		"8": "blocks/hardened_clay_stained_yellow",
-		"planks_dark": "blocks/planks_big_oak",
-		"coal_block": "blocks/coal_block",
-		"anvil": "blocks/hardened_clay_stained_cyan",
-		"planks_spruce": "blocks/planks_spruce"
+		"6": "block/black_wool",
+		"7": "block/anvil",
+		"8": "block/yellow_terracotta",
+		"planks_dark": "block/dark_oak_planks",
+		"coal_block": "block/coal_block",
+		"anvil": "block/cyan_terracotta",
+		"planks_spruce": "block/spruce_planks"
 	},
 	"elements": [
 		{

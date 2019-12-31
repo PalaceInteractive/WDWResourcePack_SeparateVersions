@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "custom/frozen",
-		"5": "blocks/daylight_detector_top",
+		"5": "block/daylight_detector_top",
 		"particle": "custom/frozen"
 	},
 	"elements": [

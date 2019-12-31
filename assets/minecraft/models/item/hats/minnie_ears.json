@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"mesh_palette": "blocks/wool_colored_white",
-		"texture1": "blocks/wool_colored_black",
-		"texture2": "blocks/wool_colored_red",
-		"texture3": "blocks/wool_colored_white"
+		"mesh_palette": "block/white_wool",
+		"texture1": "block/black_wool",
+		"texture2": "block/red_wool",
+		"texture3": "block/white_wool"
 	},
 	"elements": [
 		{

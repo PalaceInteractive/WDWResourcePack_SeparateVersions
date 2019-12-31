@@ -1,14 +1,14 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "items/potato",
-		"1": "blocks/wool_colored_white",
-		"2": "blocks/wool_colored_pink",
-		"3": "blocks/wool_colored_red",
-		"4": "blocks/wool_colored_yellow",
-		"5": "blocks/wool_colored_light_blue",
-		"6": "blocks/wool_colored_purple",
-		"particle": "items/potato"
+		"0": "item/potato",
+		"1": "block/white_wool",
+		"2": "block/pink_wool",
+		"3": "block/red_wool",
+		"4": "block/yellow_wool",
+		"5": "block/light_blue_wool",
+		"6": "block/purple_wool",
+		"particle": "item/potato"
 	},
 	"elements": [
 		{

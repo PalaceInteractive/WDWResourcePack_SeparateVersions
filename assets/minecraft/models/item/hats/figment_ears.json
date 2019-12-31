@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"6": "blocks/purpur_block",
-		"7": "blocks/wool_colored_orange",
-		"9": "blocks/wool_colored_yellow",
-		"10": "blocks/coal_block",
-		"11": "blocks/hardened_clay_stained_orange",
-		"12": "blocks/wool_colored_yellow"
+		"6": "block/purpur_block",
+		"7": "block/orange_wool",
+		"9": "block/yellow_wool",
+		"10": "block/coal_block",
+		"11": "block/orange_terracotta",
+		"12": "block/yellow_wool"
 	},
 	"elements": [
 		{

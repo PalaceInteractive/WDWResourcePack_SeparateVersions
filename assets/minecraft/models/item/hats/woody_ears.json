@@ -1,17 +1,17 @@
 {
 	"__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
 	"textures": {
-		"0": "blocks/wool_colored_red",
-		"1": "blocks/wool_colored_lime",
-		"2": "blocks/wool_colored_magenta",
-		"3": "blocks/wool_colored_light_blue",
-		"4": "blocks/wool_colored_yellow",
-		"5": "blocks/wool_colored_pink",
-		"6": "blocks/wool_colored_white",
-		"particle": "blocks/decorations/woodyshirt",
-		"texture": "blocks/wool_colored_brown",
-		"texture1": "blocks/decorations/woodypattern",
-		"texture2": "blocks/gold_block"
+		"0": "block/red_wool",
+		"1": "block/lime_wool",
+		"2": "block/magenta_wool",
+		"3": "block/light_blue_wool",
+		"4": "block/yellow_wool",
+		"5": "block/pink_wool",
+		"6": "block/white_wool",
+		"particle": "block/decorations/woodyshirt",
+		"texture": "block/brown_wool",
+		"texture1": "block/decorations/woodypattern",
+		"texture2": "block/gold_block"
 	},
 	"elements": [
 		{

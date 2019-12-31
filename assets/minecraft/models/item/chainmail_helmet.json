@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"37": "blocks/iron_block",
-		"38": "blocks/gold_block",
-		"39": "blocks/redstone_block",
-		"texture1": "blocks/wool_colored_purple",
-		"7_texture2": "blocks/crown_rim",
-		"7_texture4": "blocks/emerald_block",
-		"texture5": "blocks/planks_oak"
+		"37": "block/iron_block",
+		"38": "block/gold_block",
+		"39": "block/redstone_block",
+		"texture1": "block/purple_wool",
+		"7_texture2": "block/crown_rim",
+		"7_texture4": "block/emerald_block",
+		"texture5": "block/oak_planks"
 	},
 	"elements": [
 		{

@@ -1,16 +1,16 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/astrogrill",
-		"1": "blocks/hardened_clay_stained_yellow",
-		"2": "blocks/wool_colored_black",
-		"3": "blocks/hardened_clay_stained_yellow",
-		"5": "blocks/wool_colored_white",
-		"6": "blocks/daylight_detector_inverted_top",
-		"7": "blocks/astro",
+		"0": "block/astrogrill",
+		"1": "block/yellow_terracotta",
+		"2": "block/black_wool",
+		"3": "block/yellow_terracotta",
+		"5": "block/white_wool",
+		"6": "block/daylight_detector_inverted_top",
+		"7": "block/astro",
 		"8": "custom/cruzeyes",
 		"9": "custom/lightningsmile",
-		"particle": "blocks/astrogrill"
+		"particle": "block/astrogrill"
 	},
 	"elements": [
 		{

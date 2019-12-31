@@ -1,17 +1,17 @@
 {
 	"credit": "Made with Blockbench by Kastle",
 	"textures": {
-		"0": "blocks/astrobase",
-		"1": "blocks/wool_colored_black",
-		"2": "blocks/redstone_block",
-		"3": "blocks/wool_colored_lime",
-		"4": "blocks/wool_colored_red",
-		"5": "blocks/gold_block",
+		"0": "block/astrobase",
+		"1": "block/black_wool",
+		"2": "block/redstone_block",
+		"3": "block/lime_wool",
+		"4": "block/red_wool",
+		"5": "block/gold_block",
 		"6": "custom/peterpan1",
-		"7": "blocks/wool_colored_white",
-		"8": "blocks/glass_lime",
+		"7": "block/white_wool",
+		"8": "block/lime_stained_glass",
 		"9": "custom/rideplac",
-		"particle": "blocks/astrobase"
+		"particle": "block/astrobase"
 	},
 	"elements": [
 		{

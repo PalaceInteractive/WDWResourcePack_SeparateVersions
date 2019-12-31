@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/wool_colored_brown",
-		"1": "blocks/wool_colored_white",
-		"3": "blocks/mushroom_block_inside",
-		"particle": "blocks/wool_colored_brown"
+		"0": "block/brown_wool",
+		"1": "block/white_wool",
+		"3": "block/mushroom_block_inside",
+		"particle": "block/brown_wool"
 	},
 	"elements": [
 		{
