@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"3": "block/mossy_cobblestone",
-		"4": "block/smooth_stone",
+		"4": "block/stone_slab_top",
 		"5": "block/furnace_side",
 		"6": "block/black_wool",
 		"7": "custom/kiosk"
