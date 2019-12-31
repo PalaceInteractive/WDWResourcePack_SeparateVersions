@@ -1,8 +1,8 @@
 {
 	"__comment": "Designed by Legobuilder0813 with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/item_frame",
-		"texture": "blocks/item_frame"
+		"particle": "block/item_frame",
+		"texture": "block/item_frame"
 	},
 	"elements": [ 	 
 		{
