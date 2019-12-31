@@ -1,11 +1,11 @@
 {
 	"credit": "Made by Autvmn",
 	"textures": {
-		"0": "block/purple_wool",
-		"1": "block/yellow_wool",
+		"0": "blocks/wool_colored_purple",
+		"1": "blocks/wool_colored_yellow",
 		"2": "custom/carpetride",
-		"3": "block/gold_ore",
-		"particle": "block/purple_wool"
+		"3": "blocks/gold_ore",
+		"particle": "blocks/wool_colored_purple"
 	},
 	"elements": [
 		{

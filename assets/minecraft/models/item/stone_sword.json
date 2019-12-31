@@ -2,16 +2,16 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "block/daylight_detector_side",
-		"4": "block/yellow_wool",
-		"5": "block/end_stone",
-		"6": "block/black_wool",
-		"7": "block/pink_wool",
-		"8": "block/white_wool",
+		"1": "blocks/daylight_detector_side",
+		"4": "blocks/wool_colored_yellow",
+		"5": "blocks/end_stone",
+		"6": "blocks/wool_colored_black",
+		"7": "blocks/wool_colored_pink",
+		"8": "blocks/wool_colored_white",
 		"9": "custom/sword1",
-		"10": "item/mickey_wand",
+		"10": "items/mickey_wand",
 		"11": "custom/sword2",
-		"particle": "block/red_wool"
+		"particle": "blocks/wool_colored_red"
 	},
 	"elements": [
 		{

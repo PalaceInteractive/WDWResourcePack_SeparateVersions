@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/beacon",
-		"1": "block/brewing_stand_base",
-		"2": "block/white_stained_glass",
-		"particle": "block/beacon"
+		"0": "blocks/beacon",
+		"1": "blocks/brewing_stand_base",
+		"2": "blocks/glass_white",
+		"particle": "blocks/beacon"
 	},
 	"elements": [
 		{

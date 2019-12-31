@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/black_wool",
+		"0": "blocks/wool_colored_black",
 		"1": "custom/mvmcppin",
-		"2": "block/brewing_stand_base",
-		"particle": "block/black_wool"
+		"2": "blocks/brewing_stand_base",
+		"particle": "blocks/wool_colored_black"
 	},
 	"elements": [
 		{

@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/hay_block_side",
-		"1": "block/blue_terracotta",
-		"2": "block/dispenser_front_horizontal",
-		"3": "block/black_wool",
-		"particle": "block/hay_block_side"
+		"0": "blocks/hay_block_side",
+		"1": "blocks/hardened_clay_stained_blue",
+		"2": "blocks/dispenser_front_horizontal",
+		"3": "blocks/wool_colored_black",
+		"particle": "blocks/hay_block_side"
 	},
 	"elements": [
 		{

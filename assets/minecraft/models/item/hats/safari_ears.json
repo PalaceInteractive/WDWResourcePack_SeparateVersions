@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"8": "block/sand",
-		"13": "block/brown_terracotta",
-		"14": "block/black_wool",
-		"particle": "block/sand"
+		"8": "blocks/sand",
+		"13": "blocks/hardened_clay_stained_brown",
+		"14": "blocks/wool_colored_black",
+		"particle": "blocks/sand"
 	},
 	"elements": [
 		{

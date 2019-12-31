@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/jack_o_lantern",
+		"0": "blocks/pumpkin_face_off",
 		"1": "custom/mickeypumpkin",
-		"2": "block/oak_log",
+		"2": "blocks/log_oak",
 		"3": "custom/mickeypumpkinwreath",
 		"particle": "custom/mickeypumpkin"
 	},

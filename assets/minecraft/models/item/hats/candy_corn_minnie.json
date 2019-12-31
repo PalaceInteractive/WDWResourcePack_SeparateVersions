@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"4": "block/orange_wool",
-		"5": "block/bone_block_side",
-		"6": "block/yellow_terracotta",
-		"texture1": "block/black_wool",
-		"particle": "block/orange_wool"
+		"4": "blocks/wool_colored_orange",
+		"5": "blocks/bone_block_side",
+		"6": "blocks/hardened_clay_stained_yellow",
+		"texture1": "blocks/wool_colored_black",
+		"particle": "blocks/wool_colored_orange"
 	},
 	"elements": [
 		{

@@ -1,11 +1,11 @@
 {
 "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
 "textures": {
-    "particle": "block/red_wool",
-    "0": "block/blue_stained_glass",
-    "1": "block/daylight_detector_side",
-    "2": "block/gold_block",
-    "3": "block/black_wool"
+    "particle": "blocks/wool_colored_red",
+    "0": "blocks/glass_blue",
+    "1": "blocks/daylight_detector_side",
+    "2": "blocks/gold_block",
+    "3": "blocks/wool_colored_black"
 },
 "overrides":[
     { "predicate": { "damaged": 0, "damage": 0.000640614990}, "model":"item/decorations/woody"},
@@ -34,7 +34,8 @@
 	{ "predicate": { "damaged": 0, "damage": 0.01537476}, "model":"item/decorations/wreath"},
 	{ "predicate": { "damaged": 0, "damage": 0.01601537}, "model":"item/handitems/snowiecone"},
 	{ "predicate": { "damaged": 0, "damage": 0.01665598975016}, "model":"item/decorations/kite"},
-	{ "predicate": { "damaged": 0, "damage": 0.0172966}, "model":"item/decorations/kiteflag"}
+	{ "predicate": { "damaged": 0, "damage": 0.0172966}, "model":"item/decorations/kiteflag"},
+  { "predicate": { "damaged": 0, "damage": 0.0179372}, "model":"item/decorations/dreidal"}
 ],
 "elements": [
 {

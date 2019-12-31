@@ -2,9 +2,9 @@
 	"credit": "Made by Autvmn",
 	"textures": {
 		"0": "custom/carpetride",
-		"1": "block/yellow_terracotta",
-		"2": "block/astrobase",
-		"3": "block/diamond_block",
+		"1": "blocks/hardened_clay_stained_yellow",
+		"2": "blocks/astrobase",
+		"3": "blocks/diamond_block",
 		"particle": "custom/carpetride"
 	},
 	"elements": [

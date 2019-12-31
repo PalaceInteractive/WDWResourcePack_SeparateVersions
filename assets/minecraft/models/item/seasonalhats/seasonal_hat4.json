@@ -1,9 +1,9 @@
 {
 	"__comment": "Designed by Kodak_kev with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "block/e_particle",
-		"texture": "block/orange_wool",
-		"texture1": "block/green_terracotta",
+		"particle": "blocks/e_particle",
+		"texture": "blocks/wool_colored_orange",
+		"texture1": "blocks/hardened_clay_stained_green",
 		"texture2": "custom/jackolantern1"
 	},
 	"elements": [

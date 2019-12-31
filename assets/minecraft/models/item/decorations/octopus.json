@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench by halofreak894",
 	"textures": {
-		"0": "block/blue_terracotta",
-		"1": "block/white_wool",
-		"2": "block/black_wool",
-		"3": "block/pink_terracotta",
-		"4": "block/orange_terracotta",
-		"particle": "block/blue_terracotta"
+		"0": "blocks/hardened_clay_stained_blue",
+		"1": "blocks/wool_colored_white",
+		"2": "blocks/wool_colored_black",
+		"3": "blocks/hardened_clay_stained_pink",
+		"4": "blocks/hardened_clay_stained_orange",
+		"particle": "blocks/hardened_clay_stained_blue"
 	},
 	"elements": [
 		{

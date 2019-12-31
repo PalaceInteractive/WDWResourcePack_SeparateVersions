@@ -1,14 +1,14 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"8": "block/yellow_wool",
-		"texture": "block/brown_mushroom_block",
-		"texture1": "block/nether_bricks",
-		"texture2": "block/sandstone_bottom",
-		"texture3": "block/gray_wool",
-		"texture4": "block/gray_wool",
-		"texture6": "block/jungle_planks",
-		"texture7": "block/cobblestone"
+		"8": "blocks/wool_colored_yellow",
+		"texture": "blocks/mushroom_block_skin_brown",
+		"texture1": "blocks/nether_brick",
+		"texture2": "blocks/sandstone_bottom",
+		"texture3": "blocks/wool_colored_gray",
+		"texture4": "blocks/wool_colored_silver",
+		"texture6": "blocks/planks_jungle",
+		"texture7": "blocks/cobblestone"
 	},
 	"elements": [
 		{

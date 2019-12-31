@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/pink_shulker_box",
-		"1": "block/white_wool"
+		"0": "blocks/shulker_top_pink",
+		"1": "blocks/wool_colored_white"
 	},
 	"elements": [
 		{

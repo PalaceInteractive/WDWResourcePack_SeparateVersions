@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/black_wool",
-		"1": "block/pink_terracotta",
-		"2": "block/pink_wool"
+		"0": "blocks/wool_colored_black",
+		"1": "blocks/hardened_clay_stained_pink",
+		"2": "blocks/wool_colored_pink"
 	},
 	"elements": [
 		{

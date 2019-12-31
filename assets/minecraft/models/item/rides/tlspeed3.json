@@ -1,15 +1,15 @@
 {
 	"credit": "Made with Blockbench by halofreak894",
 	"textures": {
-		"2": "block/coal_block",
-		"3": "block/gray_wool",
-		"4": "block/cyan_terracotta",
-		"5": "block/black_wool",
-		"6": "block/polished_andesite",
-		"7": "block/tomorrowland_speedway",
-		"8": "block/white_wool",
-		"10": "block/blue_wool",
-		"12": "block/tlspeednumb"
+		"2": "blocks/coal_block",
+		"3": "blocks/wool_colored_gray",
+		"4": "blocks/hardened_clay_stained_cyan",
+		"5": "blocks/wool_colored_black",
+		"6": "blocks/stone_andesite_smooth",
+		"7": "blocks/tomorrowland_speedway",
+		"8": "blocks/wool_colored_white",
+		"10": "blocks/wool_colored_blue",
+		"12": "blocks/tlspeednumb"
 	},
 	"elements": [
 		{

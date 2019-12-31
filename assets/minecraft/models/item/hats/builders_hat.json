@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/gold_block",
-		"3": "block/glowstone",
-		"6": "block/black_wool"
+		"0": "blocks/gold_block",
+		"3": "blocks/glowstone",
+		"6": "blocks/wool_colored_black"
 	},
 	"elements": [
 		{

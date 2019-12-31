@@ -1,6 +1,6 @@
 {
     "variants": {
-        "": { "model": "block/bricks" },
-        "all":    { "model": "block/bricks" }
+        "normal": { "model": "brick" },
+        "all":    { "model": "brick" }
     }
 }

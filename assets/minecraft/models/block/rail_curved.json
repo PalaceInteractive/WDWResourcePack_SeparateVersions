@@ -1,10 +1,10 @@
 {
 "ambientocclusion": false,
     "textures": {
-        "particle": "block/bricks",
-        "0": "block/gray_wool",
-        "1": "block/rail_corner",
-        "2": "block/rail"
+        "particle": "blocks/brick",
+        "0": "blocks/wool_colored_gray",
+        "1": "blocks/rail_normal_turned",
+        "2": "blocks/rail_normal"
     },
     "elements": [
         {

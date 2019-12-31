@@ -2,9 +2,9 @@
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
 "ambientocclusion": false,
     "textures": {
-        "particle": "block/glass",
-        "0": "block/beacon",
-        "1": "block/obsidian"
+        "particle": "blocks/glass",
+        "0": "blocks/beacon",
+        "1": "blocks/obsidian"
     },
     "elements": [
         {

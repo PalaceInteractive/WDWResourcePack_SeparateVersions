@@ -1,16 +1,16 @@
 {
 	"credit": "Made by Autvmn",
 	"textures": {
-		"0": "block/leaves_spruce_opaque",
-		"1": "block/blue_stained_glass",
-		"2": "block/lime_stained_glass",
-		"3": "block/orange_stained_glass",
-		"4": "block/red_stained_glass",
-		"5": "block/astro",
-		"6": "block/poppy",
-		"7": "block/gold_block",
-		"8": "block/green_wool",
-		"particle": "block/leaves_spruce_opaque"
+		"0": "blocks/leaves_spruce_opaque",
+		"1": "blocks/glass_blue",
+		"2": "blocks/glass_lime",
+		"3": "blocks/glass_orange",
+		"4": "blocks/glass_red",
+		"5": "blocks/astro",
+		"6": "blocks/flower_rose",
+		"7": "blocks/gold_block",
+		"8": "blocks/wool_colored_green",
+		"particle": "blocks/leaves_spruce_opaque"
 	},
 	"elements": [
 		{

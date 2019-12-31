@@ -1,17 +1,17 @@
 {
 	"credit": "Made by Autvmn",
 	"textures": {
-		"0": "block/gold_block",
-		"2": "block/red_wool",
-		"3": "block/gray_wool",
-		"4": "block/black_wool",
-		"5": "block/green_wool",
-		"6": "block/green_terracotta",
-		"7": "block/green_wool",
-		"8": "block/red_terracotta",
-		"9": "block/astrogrill",
+		"0": "blocks/gold_block",
+		"2": "blocks/wool_colored_red",
+		"3": "blocks/wool_colored_gray",
+		"4": "blocks/wool_colored_black",
+		"5": "blocks/wool_colored_green",
+		"6": "blocks/hardened_clay_stained_green",
+		"7": "blocks/wool_colored_green",
+		"8": "blocks/hardened_clay_stained_red",
+		"9": "blocks/astrogrill",
 		"10": "custom/wdwrr",
-		"particle": "block/gold_block"
+		"particle": "blocks/gold_block"
 	},
 	"elements": [
 		{

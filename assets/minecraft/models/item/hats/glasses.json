@@ -1,9 +1,9 @@
 {
 	"credit": "Made by Znai",
 	"textures": {
-		"0": "block/astrogrill",
-		"1": "block/white_stained_glass",
-		"particle": "block/white_stained_glass"
+		"0": "blocks/astrogrill",
+		"1": "blocks/glass_white",
+		"particle": "blocks/glass_white"
 	},
 	"elements": [
 		{

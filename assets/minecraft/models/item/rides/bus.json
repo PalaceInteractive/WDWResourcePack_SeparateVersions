@@ -1,22 +1,22 @@
 {
 	"credit": "Made by _Kastle with Blockbench. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
 	"textures": {
-		"0": "block/gray_stained_glass",
-		"1": "block/anvil",
-		"2": "block/redstone_block",
-		"3": "block/white_wool",
-		"4": "block/orange_stained_glass",
-		"5": "block/gray_wool",
-		"6": "block/black_wool",
-		"7": "block/piston_top_sticky",
-		"8": "block/coal_block",
-		"9": "block/daylight_detector_inverted_top",
-		"10": "block/yellow_wool",
-		"11": "block/light_blue_wool",
-		"12": "block/red_stained_glass",
+		"0": "blocks/glass_silver",
+		"1": "blocks/anvil_base",
+		"2": "blocks/redstone_block",
+		"3": "blocks/wool_colored_white",
+		"4": "blocks/glass_orange",
+		"5": "blocks/wool_colored_gray",
+		"6": "blocks/wool_colored_black",
+		"7": "blocks/piston_top_sticky",
+		"8": "blocks/coal_block",
+		"9": "blocks/daylight_detector_inverted_top",
+		"10": "blocks/wool_colored_yellow",
+		"11": "blocks/wool_colored_light_blue",
+		"12": "blocks/glass_red",
 		"13": "custom/bus1",
 		"14": "custom/bus2",
-		"particle": "block/gray_stained_glass"
+		"particle": "blocks/glass_silver"
 	},
 	"elements": [
 		{

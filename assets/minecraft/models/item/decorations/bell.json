@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/sandstone_bottom",
-		"1": "block/quartz_block_side",
-		"2": "block/nether_bricks",
-		"3": "block/dark_oak_planks",
-		"4": "block/white_terracotta",
-		"particle": "block/sandstone_bottom"
+		"0": "blocks/sandstone_bottom",
+		"1": "blocks/quartz_block_side",
+		"2": "blocks/nether_brick",
+		"3": "blocks/planks_big_oak",
+		"4": "blocks/hardened_clay_stained_white",
+		"particle": "blocks/sandstone_bottom"
 	},
 	"elements": [
 		{

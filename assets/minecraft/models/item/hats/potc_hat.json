@@ -1,17 +1,17 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/black_wool",
-		"2": "block/gold_ore",
-		"4": "block/cactus_bottom",
-		"5": "block/brown_terracotta",
-		"7": "block/red_mushroom_block",
-		"8": "block/red_terracotta",
-		"10": "block/bone_block_side",
-		"11": "block/astrogrill",
-		"12": "block/netherrack",
-		"16": "block/cut_sandstone",
-		"17": "block/oak_planks"
+		"1": "blocks/wool_colored_black",
+		"2": "blocks/gold_ore",
+		"4": "blocks/cactus_bottom",
+		"5": "blocks/hardened_clay_stained_brown",
+		"7": "blocks/mushroom_block_skin_red",
+		"8": "blocks/hardened_clay_stained_red",
+		"10": "blocks/bone_block_side",
+		"11": "blocks/astrogrill",
+		"12": "blocks/netherrack",
+		"16": "blocks/sandstone_smooth",
+		"17": "blocks/planks_oak"
 	},
 	"elements": [
 		{

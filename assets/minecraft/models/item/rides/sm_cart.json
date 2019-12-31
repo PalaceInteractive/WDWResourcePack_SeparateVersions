@@ -1,7 +1,7 @@
 {
 	"credit": "Made by Nullblox",
 	"textures": {
-		"particle": "item/nubx/sm_cart"
+		"particle": "items/nubx/sm_cart"
 	},
 	"elements": [
 		{

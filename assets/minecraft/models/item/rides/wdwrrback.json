@@ -1,20 +1,20 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/piston_top",
-		"1": "block/red_wool",
-		"2": "block/acacia_planks",
-		"3": "block/yellow_terracotta",
-		"4": "block/red_wool",
-		"6": "block/gold_block",
-		"7": "block/astrogrill",
-		"8": "block/red_terracotta",
-		"9": "block/daylight_detector_inverted_top",
-		"10": "block/green_wool",
+		"0": "blocks/piston_top_normal",
+		"1": "blocks/wool_colored_red",
+		"2": "blocks/planks_acacia",
+		"3": "blocks/hardened_clay_stained_yellow",
+		"4": "blocks/wool_colored_red",
+		"6": "blocks/gold_block",
+		"7": "blocks/astrogrill",
+		"8": "blocks/hardened_clay_stained_red",
+		"9": "blocks/daylight_detector_inverted_top",
+		"10": "blocks/wool_colored_green",
 		"11": "custom/wdwrrtext",
 		"12": "custom/jcboattop",
 		"13": "custom/wdwrrtext2",
-		"particle": "block/gold_block"
+		"particle": "blocks/gold_block"
 	},
 	"elements": [
 		{

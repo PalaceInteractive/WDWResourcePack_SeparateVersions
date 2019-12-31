@@ -1,16 +1,16 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/piston_top",
-		"1": "block/green_wool",
-		"2": "block/acacia_planks",
-		"3": "block/yellow_terracotta",
-		"4": "block/red_wool",
+		"0": "blocks/piston_top_normal",
+		"1": "blocks/wool_colored_green",
+		"2": "blocks/planks_acacia",
+		"3": "blocks/hardened_clay_stained_yellow",
+		"4": "blocks/wool_colored_red",
 		"6": "custom/trolleylogo",
 		"7": "custom/trolleylogo2",
-		"8": "block/gray_wool",
-		"9": "block/white_terracotta",
-		"particle": "block/white_terracotta"
+		"8": "blocks/wool_colored_gray",
+		"9": "blocks/hardened_clay_stained_white",
+		"particle": "blocks/hardened_clay_stained_white"
 	},
 	"elements": [
 		{

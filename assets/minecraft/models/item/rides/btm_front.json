@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"particle": "item/nubx/btm_front"
+		"particle": "items/nubx/btm_front"
 	},
 	"elements": [
 		{

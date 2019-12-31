@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench by halofreak894",
 	"textures": {
-		"particle": "item/nubx/alien_saucer_cart"
+		"particle": "items/nubx/alien_saucer_cart"
 	},
 	"elements": [
 		{

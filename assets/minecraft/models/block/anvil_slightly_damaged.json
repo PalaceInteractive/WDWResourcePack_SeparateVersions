@@ -1,18 +1,18 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
     "textures": {
-        "particle": "block/bricks",
-        "0": "block/black_wool",
-        "1": "block/gray_wool",
-        "2": "block/lime_stained_glass",
-        "3": "block/red_wool",
-        "4": "block/black_terracotta",
-        "5": "block/gold_block",
-        "6": "block/blue_wool",
-        "7": "block/lime_wool",
-        "8": "block/terracotta_light_blue",
-        "9": "block/iron_block",
-        "10": "block/white_wool"
+        "particle": "blocks/brick",
+        "0": "blocks/wool_colored_black",
+        "1": "blocks/wool_colored_silver",
+        "2": "blocks/glass_lime",
+        "3": "blocks/wool_colored_red",
+        "4": "blocks/hardened_clay_stained_black",
+        "5": "blocks/gold_block",
+        "6": "blocks/wool_colored_blue",
+        "7": "blocks/wool_colored_lime",
+        "8": "blocks/hardened_clay_stained_light_blue",
+        "9": "blocks/iron_block",
+        "10": "blocks/wool_colored_white"
     },
     "elements": [
         {

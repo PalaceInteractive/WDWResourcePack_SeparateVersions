@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench by halofreak894",
 	"textures": {
-		"0": "block/daylight_detector_inverted_top",
-		"1": "block/gray_wool",
+		"0": "blocks/daylight_detector_inverted_top",
+		"1": "blocks/wool_colored_gray",
 		"2": "custom/bighero6mb",
-		"particle": "block/daylight_detector_inverted_top"
+		"particle": "blocks/daylight_detector_inverted_top"
 	},
 	"elements": [
 		{

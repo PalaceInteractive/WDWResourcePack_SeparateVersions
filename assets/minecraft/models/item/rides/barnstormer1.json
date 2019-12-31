@@ -1,15 +1,15 @@
 {
 	"credit": "Made with Blockbench by halofreak894",
 	"textures": {
-		"0": "block/red_terracotta",
-		"1": "block/brown_mushroom_block",
-		"2": "block/astrogrill",
-		"3": "block/brown_terracotta",
-		"4": "block/anvil",
-		"5": "block/yellow_terracotta",
-		"6": "block/gray_wool",
-		"7": "block/coal_block",
-		"particle": "block/red_terracotta"
+		"0": "blocks/hardened_clay_stained_red",
+		"1": "blocks/mushroom_block_skin_brown",
+		"2": "blocks/astrogrill",
+		"3": "blocks/hardened_clay_stained_brown",
+		"4": "blocks/anvil_base",
+		"5": "blocks/hardened_clay_stained_yellow",
+		"6": "blocks/wool_colored_gray",
+		"7": "blocks/coal_block",
+		"particle": "blocks/hardened_clay_stained_red"
 	},
 	"elements": [
 		{

@@ -1,12 +1,12 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
     "textures": {
-        "particle": "block/orange_wool",
-        "0": "block/orange_wool",
-        "1": "block/white_wool",
-        "2": "block/gray_wool",
-        "3": "block/black_wool",
-        "4": "block/gray_terracotta"
+        "particle": "blocks/wool_colored_orange",
+        "0": "blocks/wool_colored_orange",
+        "1": "blocks/wool_colored_white",
+        "2": "blocks/wool_colored_silver",
+        "3": "blocks/wool_colored_black",
+        "4": "blocks/hardened_clay_stained_gray"
     },
     "elements": [
         {
