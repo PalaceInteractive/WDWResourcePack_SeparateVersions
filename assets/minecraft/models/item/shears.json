@@ -68,9 +68,8 @@
 	    { "predicate": { "damaged": 0, "damage": 0.26470588}, "model": "item/rides/wdwrrfront" },
 	    { "predicate": { "damaged": 0, "damage": 0.26890756}, "model": "item/rides/wdwrrmiddle" },
 	    { "predicate": { "damaged": 0, "damage": 0.27310924}, "model": "item/rides/wdwrrback" },
-      { "predicate": { "damaged": 0, "damage": 0.277310924}, "model": "item/rides/transportation_1" }
       { "predicate": { "damaged": 0, "damage": 0.277310924}, "model": "item/rides/transportation_1" },
-      { "predicate": { "damaged": 0, "damage": 0.281512605}, "model": "item/rides/iasw_boat_red" },
-      { "predicate": { "damaged": 0, "damage": 0.285714285}, "model": "item/rides/iasw_boat_yellow" }
+      { "predicate": { "damaged": 0, "damage": 0.28151260504}, "model": "item/rides/iasw_boat_yellow" },
+      { "predicate": { "damaged": 0, "damage": 0.28571428571}, "model": "item/rides/iasw_boat_red" }
     ]
 }
