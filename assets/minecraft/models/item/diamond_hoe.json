@@ -61,6 +61,8 @@
 { "predicate": { "damaged": 0, "damage": 0.0352338245}, "model":"item/handitems/darksaber"},
 { "predicate": { "damaged": 0, "damage": 0.0358744395}, "model":"item/hats/minnie_ears_hat"},
 { "predicate": { "damaged": 0, "damage": 0.03651505445}, "model":"item/handitems/darth_saber"},
-{ "predicate": { "damaged": 0, "damage": 0.03715566944}, "model":"item/hats/wookie_ears"}
+{ "predicate": { "damaged": 0, "damage": 0.03715566944}, "model":"item/hats/wookie_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.03779628443}, "model":"item/hats/navi_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.03843689942}, "model":"item/hats/graduation_ears"}
 ]
 }
