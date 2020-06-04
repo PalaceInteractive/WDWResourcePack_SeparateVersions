@@ -76,6 +76,7 @@
       { "predicate": { "damaged": 0, "damage": 0.298319327}, "model": "item/rides/rrc_back_car" },
       { "predicate": { "damaged": 0, "damage": 0.302521008}, "model": "item/rides/rrc_restraints" },
       { "predicate": { "damaged": 0, "damage": 0.306722689}, "model": "item/rides/gran_fiesta_tour" },
-      { "predicate": { "damaged": 0, "damage": 0.31092437}, "model": "item/rides/figmentcar" }
+      { "predicate": { "damaged": 0, "damage": 0.31092437}, "model": "item/rides/figmentcar" },
+      { "predicate": { "damaged": 0, "damage": 0.31512605042}, "model": "item/rides/cloud_car" }
 ]
 }
