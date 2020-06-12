@@ -74,6 +74,7 @@
 { "predicate": { "damaged": 0, "damage": 0.043561819346}, "model":"item/hats/prideears"},
 { "predicate": { "damaged": 0, "damage": 0.04420243433}, "model":"item/hats/pridebaseballcap"},
 { "predicate": { "damaged": 0, "damage": 0.04484304932}, "model":"item/handitems/pridelightstick"},
-{ "predicate": { "damaged": 0, "damage": 0.04548366431}, "model":"item/hats/wings"}
+{ "predicate": { "damaged": 0, "damage": 0.04548366431}, "model":"item/hats/wings"},
+{ "predicate": { "damaged": 0, "damage": 0.0461242793081}, "model":"item/hats/hm_ears"}
 ]
 }
