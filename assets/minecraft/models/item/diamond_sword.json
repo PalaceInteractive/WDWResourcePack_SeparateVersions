@@ -40,7 +40,12 @@
   { "predicate": { "damaged": 0, "damage": 0.019206146}, "model":"item/decorations/grand_piano"},
   { "predicate": { "damaged": 0, "damage": 0.0198590647}, "model":"item/decorations/surfboard"},
   { "predicate": { "damaged": 0, "damage": 0.02049967969}, "model":"item/handitems/remy"},
-  { "predicate": { "damaged": 0, "damage": 0.0211402946}, "model":"item/decorations/tiefighter"}
+  { "predicate": { "damaged": 0, "damage": 0.0211402946}, "model":"item/decorations/tiefighter"},
+  { "predicate": { "damaged": 0, "damage": 0.0217809097}, "model":"item/handitems/akmap"},
+  { "predicate": { "damaged": 0, "damage": 0.0224215247}, "model":"item/handitems/dhsmap"},
+  { "predicate": { "damaged": 0, "damage": 0.0230621397}, "model":"item/handitems/epcotmap"},
+  { "predicate": { "damaged": 0, "damage": 0.0237027546}, "model":"item/handitems/mkmap"},
+  { "predicate": { "damaged": 0, "damage": 0.0243433696}, "model":"item/handitems/typhoonmap"}
 ],
 "elements": [
 {
