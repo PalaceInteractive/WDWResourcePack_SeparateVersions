@@ -82,6 +82,8 @@
 { "predicate": { "damaged": 0, "damage": 0.0486867393}, "model":"item/hats/walle_ears"},
 { "predicate": { "damaged": 0, "damage": 0.0493273543}, "model":"item/hats/yoda_ears"},
 { "predicate": { "damaged": 0, "damage": 0.0499679693}, "model":"item/hats/up_ears"},
-{ "predicate": { "damaged": 0, "damage": 0.0506085842}, "model":"item/hats/lilo_ears"}
+{ "predicate": { "damaged": 0, "damage": 0.0506085842}, "model":"item/hats/lilo_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0512491992}, "model":"item/hats/tangled_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0518898142}, "model":"item/hats/mmrr_ears"}
 ]
 }

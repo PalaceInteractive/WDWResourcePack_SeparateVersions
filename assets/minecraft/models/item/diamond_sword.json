@@ -45,7 +45,8 @@
   { "predicate": { "damaged": 0, "damage": 0.0224215247}, "model":"item/handitems/dhsmap"},
   { "predicate": { "damaged": 0, "damage": 0.0230621397}, "model":"item/handitems/epcotmap"},
   { "predicate": { "damaged": 0, "damage": 0.0237027546}, "model":"item/handitems/mkmap"},
-  { "predicate": { "damaged": 0, "damage": 0.0243433696}, "model":"item/handitems/typhoonmap"}
+  { "predicate": { "damaged": 0, "damage": 0.0243433696}, "model":"item/handitems/typhoonmap"},
+  { "predicate": { "damaged": 0, "damage": 0.0249839846}, "model":"item/decorations/xwing"}
 ],
 "elements": [
 {
