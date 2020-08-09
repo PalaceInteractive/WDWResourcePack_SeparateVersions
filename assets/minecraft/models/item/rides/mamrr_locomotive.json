@@ -11,7 +11,7 @@
 		"9": "block/yellow_wool",
 		"10": "custom/rrr",
 		"11": "block/red_terracotta",
-		"12": "block/brick",
+		"12": "block/bricks",
 		"13": "block/oak_door_bottom",
 		"particle": "block/gold_block"
 	},
@@ -18880,6 +18880,11 @@
 			"rotation": [15.25, -103, -0.75],
 			"translation": [6, 0, -3.5],
 			"scale": [1.26328, 1.49609, 1.39219]
+		},
+		"head": {
+			"rotation": [0, -90, 0],
+			"translation": [0, -18, 20],
+			"scale": [3, 3, 3]
 		},
 		"fixed": {
 			"rotation": [0, -86, 0],
