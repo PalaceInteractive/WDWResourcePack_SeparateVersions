@@ -46,7 +46,9 @@
   { "predicate": { "damaged": 0, "damage": 0.0230621397}, "model":"item/handitems/epcotmap"},
   { "predicate": { "damaged": 0, "damage": 0.0237027546}, "model":"item/handitems/mkmap"},
   { "predicate": { "damaged": 0, "damage": 0.0243433696}, "model":"item/handitems/typhoonmap"},
-  { "predicate": { "damaged": 0, "damage": 0.0249839846}, "model":"item/decorations/xwing"}
+  { "predicate": { "damaged": 0, "damage": 0.0249839846}, "model":"item/decorations/xwing"},
+  { "predicate": { "damaged": 0, "damage": 0.0256081946}, "model":"item/decorations/epcot_spires"},
+  { "predicate": { "damaged": 0, "damage": 0.0262652146}, "model":"item/handitems/mnsshppin"}
 ],
 "elements": [
 {
